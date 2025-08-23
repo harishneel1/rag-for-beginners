@@ -1,0 +1,2413 @@
+﻿Nvidia
+Nvidia Corporation[a] (/ɛnˈvɪdiə/ en-VID-ee-ə) is an Nvidia Corporation
+American technology company headquartered in
+Santa Clara, California. Founded in 1993 by Jensen
+Huang (president and CEO), Chris Malachowsky, and
+Curtis Priem, it develops graphics processing units
+
+Logo used since 2006
+(GPUs), systems on chips (SoCs), and application
+programming interfaces (APIs) for data science, high-
+performance computing, and mobile and automotive
+applications.[5][6]
+
+Originally focused on GPUs for video gaming, Nvidia
+broadened their use into other markets, including
+artificial intelligence (AI), professional visualization,
+and supercomputing. The company's product lines
+include GeForce GPUs for gaming and creative
+workloads, and professional GPUs for edge Headquarters in Santa Clara, California, in 2023
+computing, scientific research, and industrial
+applications. As of the first quarter of 2025, Nvidia Company Public
+
+held a 92% share of the discrete desktop and laptop type
+
+GPU market.[7][8] Traded as Nasdaq: NVDA (https://www.n
+asdaq.com/market-activity/sto
+
+In the early 2000s, the company invested over a cks/nvda)
+billion dollars to develop CUDA, a software platform Nasdaq-100 component
+and API that enabled GPUs to run massively parallel DJIA component
+programs for a broad range of compute-intensive S&P 100 component
+applications.[9][10][11] As a result, as of 2025, Nvidia S&P 500 component
+controlled more than 80% of the market for GPUs
+
+Industry Semiconductors
+used in training and deploying AI models,[9] and
+provided chips for over 75% of the world's TOP500 Founded April 5, 1993, in Sunnyvale,
+
+California, U.S.
+supercomputers.[1] The company has also expanded
+into gaming hardware and services, with products Founders Jensen Huang
+
+such as the Shield Portable, Shield Tablet, and Shield Chris Malachowsky
+TV, and operates the GeForce Now cloud gaming Curtis Priem
+service.[12] It also developed the Tegra line of mobile Headquarters Santa Clara, California, U.S.
+processors for smartphones, tablets, and automotive Area served Worldwide
+infotainment systems.[13][14][15]
+
+Key people Jensen Huang (president and
+In 2023, Nvidia became the seventh U.S. company to CEO)
+
+reach a US$1 trillion valuation.[16] In 2025, it became Bill Dally (chief scientist)
+the first to surpass US$4 trillion in market Revenue  US$130.5 billion (FY25)
+capitalization, driven by rising global demand for data
+
+
+
+center hardware in the midst of the AI boom.[17][18] Operating  US$81.5 billion (FY25)
+For its strength, size and market capitalization, Nvidia income
+has been selected to be one of Bloomberg's Net income  US$72.9 billion (FY25)
+"Magnificent Seven", the seven biggest companies on Total assets  US$111.6 billion (FY25)
+the stock market in these regards.[19]
+
+Total equity  US$79.3 billion (FY25)
+
+Number of 36,000 (FY25)
+
+History employees
+Subsidiaries Bright Computing
+
+Cumulus Networks
+
+Founding DeepMap
+Mellanox Technologies
+
+Nvidia was founded on April 5, 1993,[20][21][22] by
+Mental Images
+
+Jensen Huang (who remains CEO), a Taiwanese-
+American electrical engineer who was previously the Website nvidia.com (https://www.nvidi
+
+director of CoreWare at LSI Logic and a a.com/)
+
+microprocessor designer at AMD; Chris Footnotes / references
+
+Malachowsky, an engineer who worked at Sun Financials as of fiscal year ended January 26,
+2025 (FY25).
+
+Microsystems; and Curtis Priem, who was previously References:[1][2]
+a senior staff engineer and graphics chip designer at
+IBM and Sun Microsystems.[23][24] In late 1992, the
+three men agreed to start the company in a meeting at a
+Denny's roadside diner on Berryessa Road in East San
+Jose.[25][26][27][28]
+
+At the time, Malachowsky and Priem were frustrated with
+Sun's management and were looking to leave, but Huang was
+on "firmer ground",[29] in that he was already running his
+own division at LSI.[26] The three co-founders discussed a The Denny's roadside diner in San Jose,
+vision of the future which was so compelling that Huang California, where Nvidia's three co-
+decided to leave LSI[29] and become the chief executive founders agreed to start the company in
+officer of their new startup.[26] late 1992
+
+The three co-founders envisioned graphics-based processing
+as the best trajectory for tackling challenges that had eluded
+general-purpose computing methods.[29] As Huang later
+explained: "We also observed that video games were
+simultaneously one of the most computationally challenging
+problems and would have incredibly high sales volume.
+Those two conditions don't happen very often. Video games
+was our killer app — a flywheel to reach large markets
+funding huge R&D to solve massive computational
+problems."[29]
+
+Nvidia's former headquarters which was
+The first problem was who would quit first. Huang's wife, home to the company through most of its
+Lori, did not want him to resign from LSI unless pre-AI period (still in use)
+Malachowsky resigned from Sun at the same time, and
+Malachowsky's wife, Melody, felt the same way about
+
+
+
+Huang.[30] Priem broke that deadlock by resigning first from
+Sun, effective December 31, 1992.[30] According to Priem,
+this put pressure on Huang and Malachowsky to not leave
+him to "flail alone", so they gave notice too.[31] Huang left
+LSI and "officially joined Priem on February 17", which was
+also Huang's 30th birthday, while Malachowsky left Sun in
+early March.[31] In early 1993, the three founders began
+working together on their new startup in Priem's townhouse
+in Fremont, California.[32]
+
+With $40,000 in the bank, the company was born.[29] The
+company subsequently received $20 million of venture capital
+funding from Sequoia Capital, Sutter Hill Ventures and
+others.[33]
+
+During the late 1990s, Nvidia was one of 70 startup
+companies pursuing the idea that graphics acceleration for Aerial view of Endeavor, the first of the
+
+two new Nvidia headquarters buildings, in
+video games was the path to the future.[25] Only two Santa Clara, California, in 2017
+survived: Nvidia and ATI Technologies, the latter of which
+merged into AMD.[25]
+
+Nvidia initially had no name.[34] Priem's first idea was
+"Primal Graphics", a syllabic abbreviation of two of the
+founders' last names, but that left out Huang.[34] They soon
+discovered it was impossible to create a workable name with
+syllables from all three founders' names, after considering
+"Huaprimal", "Prihuamal", "Malluapri", etc.[34] The next idea
+came from Priem's idea for the name of Nvidia's first
+product.[34] Priem originally wanted to call it the "GXNV", as Entrance of Endeavor headquarters
+
+building in 2018
+in the "next version" of the GX graphics chips which he had
+worked on at Sun.[32] Then Huang told Priem to "drop the
+GX", resulting in the name "NV".[32] Priem made a list of words with the letters "NV" in them.[34] At one
+point, Malachowsky and Priem wanted to call the company NVision, but that name was already taken by
+a manufacturer of toilet paper.[26] Both Priem[34] and Huang have taken credit for coming up with the
+name Nvidia,[26] from "invidia", the Latin word for "envy".[29]
+
+After the company outgrew Priem's townhouse, its original headquarters office was in Sunnyvale,
+California.[29]
+
+First graphics accelerator
+Nvidia's first graphics accelerator, the NV1, was designed to process quadrilateral primitives (forward
+texture mapping), a feature that set it apart from competitors, who preferred triangle primitives.[26]
+
+However, when Microsoft introduced the DirectX platform, it chose not to support any other graphics
+software and announced that its Direct3D API would exclusively support triangles.[26][35] As a result, the
+NV1 failed to gain traction in the market.[36]
+
+
+
+Nvidia had also entered into a partnership with Sega to supply the graphics chip for the Dreamcast
+console and worked on the project for about a year. However, Nvidia's technology was already lagging
+behind competitors. This placed the company in a difficult position: continue working on a chip that was
+likely doomed to fail or abandon the project, risking financial collapse.[37]
+
+In a pivotal moment, Sega's president, Shoichiro Irimajiri, visited Huang in person to inform him that
+Sega had decided to choose another vendor for the Dreamcast. However, Irimajiri believed in Nvidia's
+potential and persuaded Sega's management to invest $5 million into the company. Huang later reflected
+that this funding was all that kept Nvidia afloat, and that Irimajiri's "understanding and generosity gave us
+six months to live".[37]
+
+In 1996, Huang laid off more than half of Nvidia's employees—thereby reducing headcount from 100 to
+40—and focused the company's remaining resources on developing a graphics accelerator product
+optimized for processing triangle primitives: the RIVA 128.[26][35] By the time the RIVA 128 was
+released in August 1997, Nvidia had only enough money left for one month's payroll.[26] The sense of
+impending failure became so pervasive that it gave rise to Nvidia's unofficial company motto: "Our
+company is thirty days from going out of business."[26] Huang began internal presentations to Nvidia staff
+with those words for many years.[26]
+
+Nvidia sold about a million RIVA 128 units within four months,[26] and used the revenue to fund
+development of its next generation of products.[35] In 1998, the release of the RIVA TNT helped solidify
+Nvidia's reputation as a leader in graphics technology.[38]
+
+Public company
+Nvidia went public on January 22, 1999.[39][40][41] Investing in Nvidia after it had already failed to
+deliver on its contract turned out to be Irimajiri's best decision as Sega's president. After Irimajiri left
+Sega in 2000, Sega sold its Nvidia stock for $15 million.[37]
+
+In late 1999, Nvidia released the GeForce 256 (NV10), its first product expressly marketed as a GPU,
+which was most notable for introducing onboard transformation and lighting (T&L) to consumer-level
+3D hardware. Running at 120 MHz and featuring four-pixel pipelines, it implemented advanced video
+acceleration, motion compensation, and hardware sub-picture alpha blending. The GeForce outperformed
+existing products by a wide margin.
+
+Due to the success of its products, Nvidia won the contract to develop the graphics hardware for
+Microsoft's Xbox game console, which earned Nvidia a $200 million advance. However, the project took
+many of its best engineers away from other projects. In the short term this did not matter, and the
+GeForce 2 GTS shipped in the summer of 2000. In December 2000, Nvidia reached an agreement to
+acquire the intellectual assets of its one-time rival 3dfx, a pioneer in consumer 3D graphics technology
+leading the field from the mid-1990s until 2000.[42][43] The acquisition process was finalized in April
+2002.[44]
+
+In 2001, Standard & Poor's selected Nvidia to replace the departing Enron in the S&P 500 stock index,
+meaning that index funds would need to hold Nvidia shares going forward.[45]
+
+
+
+In July 2002, Nvidia acquired Exluna for an undisclosed sum. Exluna made software-rendering tools and
+the personnel were merged into the Cg project.[46] In August 2003, Nvidia acquired MediaQ for
+approximately US$70 million.[47] It launched GoForce the following year. On April 22, 2004, Nvidia
+acquired iReady, also a provider of high-performance TCP offload engines and iSCSI controllers.[48] In
+December 2004, it was announced that Nvidia would assist Sony with the design of the graphics
+processor (RSX) for the PlayStation 3 game console. On December 14, 2005, Nvidia acquired ULI
+Electronics, which at the time supplied third-party southbridge parts for chipsets to ATI, Nvidia's
+competitor.[49] In March 2006, Nvidia acquired Hybrid Graphics.[50] In December 2006, Nvidia, along
+with its main rival in the graphics industry AMD (which had acquired ATI), received subpoenas from the
+U.S. Department of Justice regarding possible antitrust violations in the graphics card industry.[51]
+
+2007–2014
+Forbes named Nvidia its Company of the Year for 2007, citing the accomplishments it made during the
+said period as well as during the previous five years.[52] On January 5, 2007, Nvidia announced that it
+had completed the acquisition of PortalPlayer, Inc.[53] In February 2008, Nvidia acquired Ageia,
+developer of PhysX, a physics engine and physics processing unit. Nvidia announced that it planned to
+integrate the PhysX technology into its future GPU products.[54][55]
+
+In July 2008, Nvidia took a write-down of approximately $200 million on its first-quarter revenue, after
+reporting that certain mobile chipsets and GPUs produced by the company had "abnormal failure rates"
+due to manufacturing defects. Nvidia, however, did not reveal the affected products. In September 2008,
+Nvidia became the subject of a class action lawsuit over the defects, claiming that the faulty GPUs had
+been incorporated into certain laptop models manufactured by Apple Inc., Dell, and HP. In September
+2010, Nvidia reached a settlement, in which it would reimburse owners of the affected laptops for repairs
+or, in some cases, replacement.[56][57] On January 10, 2011, Nvidia signed a six-year, $1.5 billion cross-
+licensing agreement with Intel, ending all litigation between the two companies.[58]
+
+In November 2011, after initially unveiling it at Mobile World Congress, Nvidia released its ARM-based
+system on a chip for mobile devices, Tegra 3. Nvidia claimed that the chip featured the first-ever quad-
+core mobile CPU.[59][60] In May 2011, it was announced that Nvidia had agreed to acquire Icera, a
+baseband chip making company in the UK, for $367 million.[61] In January 2013, Nvidia unveiled the
+Tegra 4, as well as the Nvidia Shield, an Android-based handheld game console powered by the new
+system on a chip.[62] On July 29, 2013, Nvidia announced that they acquired PGI from
+STMicroelectronics.[63]
+
+In February 2013, Nvidia announced its plans to build a new headquarters in the form of two giant
+triangle-shaped buildings on the other side of San Tomas Expressway (to the west of its existing
+headquarters complex). The company selected triangles as its design theme. As Huang explained in a
+blog post, the triangle is "the fundamental building block of computer graphics".[64]
+
+In 2014, Nvidia ported the Valve games Portal and Half Life 2 to its Nvidia Shield Tablet as Lightspeed
+Studio.[65][66] Since 2014, Nvidia has diversified its business focusing on three markets: gaming,
+automotive electronics, and mobile devices.[67]
+
+That same year, Nvidia also prevailed in litigation brought by the trustee of 3dfx's bankruptcy estate to
+challenge its 2000 acquisition of 3dfx's intellectual assets. On November 6, 2014, in an unpublished
+memorandum order, the U.S. Court of Appeals for the Ninth Circuit affirmed the "district court's
+
+
+
+judgment affirming the bankruptcy court's determination that [Nvidia] did not pay less than fair market
+value for assets purchased from 3dfx shortly before 3dfx filed for bankruptcy".[68]
+
+2016–2018
+On May 6, 2016, Nvidia unveiled the first GPUs of the GeForce 10 series, the GTX 1080 and 1070,
+based on the company's new Pascal microarchitecture. Nvidia claimed that both models outperformed its
+Maxwell-based Titan X model; the models incorporate GDDR5X and GDDR5 memory respectively, and
+use a 16  nm manufacturing process. The architecture also supports a new hardware feature known as
+simultaneous multi-projection (SMP), which is designed to improve the quality of multi-monitor and
+virtual reality (VR) rendering.[69][70][71] Laptops that include these GPUs and are sufficiently thin – as of
+late 2017, under 0.8 inches (20  mm)  – have been designated as meeting Nvidia's "Max-Q" design
+standard.[72]
+
+In July 2016, Nvidia agreed to a settlement for a false advertising lawsuit regarding its GTX 970 model,
+as the models were unable to use all of their advertised 4 GB of VRAM due to limitations brought by the
+design of its hardware.[73] In May 2017, Nvidia announced a partnership with Toyota which would use
+Nvidia's Drive PX-series artificial intelligence platform for its autonomous vehicles.[74] In July 2017,
+Nvidia and Chinese search giant Baidu announced a far-reaching AI partnership that includes cloud
+computing, autonomous driving, consumer devices, and Baidu's open-source AI framework
+PaddlePaddle. Baidu unveiled that Nvidia's Drive PX 2 AI will be the foundation of its autonomous-
+vehicle platform.[75]
+
+Nvidia officially released the Titan V on December 7, 2017.[76][77]
+
+Nvidia officially released the Nvidia Quadro GV100 on March 27, 2018.[78] Nvidia officially released the
+RTX 2080 GPUs on September 27, 2018. In 2018, Google announced that Nvidia's Tesla P4 graphic
+cards would be integrated into Google Cloud service's artificial intelligence.[79]
+
+In May 2018, on the Nvidia user forum, a thread was started[80] asking the company to update users when
+they would release web drivers for its cards installed on legacy Mac Pro machines up to mid-2012 5,1
+running the macOS Mojave operating system 10.14. Web drivers are required to enable graphics
+acceleration and multiple display monitor capabilities of the GPU. On its Mojave update info website,
+Apple stated that macOS Mojave would run on legacy machines with 'Metal compatible' graphics
+cards[81] and listed Metal compatible GPUs, including some manufactured by Nvidia.[82] However, this
+list did not include Metal compatible cards that currently work in macOS High Sierra using Nvidia-
+developed web drivers. In September, Nvidia responded, "Apple fully controls drivers for macOS. But if
+Apple allows, our engineers are ready and eager to help Apple deliver great drivers for macOS 10.14
+(Mojave)."[83] In October, Nvidia followed this up with another public announcement, "Apple fully
+controls drivers for macOS. Unfortunately, Nvidia currently cannot release a driver unless it is approved
+by Apple,"[84] suggesting a possible rift between the two companies.[85] By January 2019, with still no
+sign of the enabling web drivers, Apple Insider weighed into the controversy with a claim that Apple
+management "doesn't want Nvidia support in macOS".[86] The following month, Apple Insider followed
+this up with another claim that Nvidia support was abandoned because of "relational issues in the
+past",[87] and that Apple was developing its own GPU technology.[88] Without Apple-approved Nvidia
+web drivers, Apple users are faced with replacing their Nvidia cards with a competing supported brand,
+such as AMD Radeon from the list recommended by Apple.[89]
+
+
+
+2019 acquisition of Mellanox Technologies
+On March 11, 2019, Nvidia announced a deal to buy
+Mellanox Technologies for $6.9 billion[90] to substantially
+expand its footprint in the high-performance computing
+market. In May 2019, Nvidia announced new RTX Studio
+laptops. The creators say that the new laptop is going to be
+seven times faster than a top-end MacBook Pro with a Core i9
+and AMD's Radeon Pro Vega 20 graphics in apps like Maya
+and RedCine-X Pro.[91] In August 2019, Nvidia announced
+Minecraft RTX, an official Nvidia-developed patch for the
+game Minecraft adding real-time DXR ray tracing exclusively Nvidia Yokneam office (former Mellanox
+to the Windows 10 version of the game. The whole game is, Technologies) in Yokneam Illit, Israel, in
+in Nvidia's words, "refit" with path tracing, which March 2023
+dramatically affects the way light, reflections, and shadows
+work inside the engine.[92]
+
+2020–2023
+In May 2020, Nvidia announced it was acquiring Cumulus Networks.[93] Post acquisition the company
+was absorbed into Nvidia's networking business unit, along with Mellanox.
+
+In May 2020, Nvidia's developed an open-source ventilator to address the shortage resulting from the
+global coronavirus pandemic.[94] On May 14, 2020, Nvidia officially announced their Ampere GPU
+microarchitecture and the Nvidia A100 GPU accelerator.[95][96] In July 2020, it was reported that Nvidia
+was in talks with SoftBank to buy Arm, a UK-based chip designer, for $32 billion.[97]
+
+On September 1, 2020, Nvidia officially announced the GeForce 30 series based on the company's new
+Ampere microarchitecture.[98][99]
+
+On September 13, 2020, Nvidia announced that they would buy Arm from SoftBank Group for $40
+billion, subject to the usual scrutiny, with the latter retaining a 10% share of Nvidia.[100][101][102][103]
+
+In October 2020, Nvidia announced its plan to build the most
+powerful computer in Cambridge, England. The computer,
+called Cambridge-1, launched in July 2021 with a $100
+million investment and will employ AI to support healthcare
+research.[104][105] According to Jensen Huang, "The
+Cambridge-1 supercomputer will serve as a hub of innovation
+for the UK, and further the groundbreaking work being done
+by the nation's researchers in critical healthcare and drug Nvidia GeForce RTX 2080 Ti, part of the
+discovery."[106] RTX 20 series, which is the first
+
+generation of Nvidia RTX
+Also in October 2020, along with the release of the Nvidia
+RTX A6000, Nvidia announced it is retiring its workstation
+GPU brand Quadro, shifting its product name to Nvidia RTX for future products and the manufacturing
+to be Nvidia Ampere architecture-based.[107]
+
+
+
+In August 2021, the proposed takeover of Arm was stalled after the UK's Competition and Markets
+Authority raised "significant competition concerns".[108] In October 2021, the European Commission
+opened a competition investigation into the takeover. The Commission stated that Nvidia's acquisition
+could restrict competitors' access to Arm's products and provide Nvidia with too much internal
+information on its competitors due to their deals with Arm. SoftBank (the parent company of Arm) and
+Nvidia announced in early February 2022 that they "had agreed not to move forward with the transaction
+'because of significant regulatory challenges' ".[109] The investigation was set to end on March 15,
+2022.[110][111] That same month, Nvidia was reportedly compromised by a cyberattack.[112] This would
+have been the largest semiconductor acquisition in history.[17][18]
+
+In March 2022, Nvidia's CEO Jensen Huang mentioned that they were open to having Intel manufacture
+their chips in the future.[113] This was the first time the company mentioned that they would work
+together with Intel's upcoming foundry services.
+
+In April 2022, it was reported that Nvidia planned to open a new research center in Yerevan,
+Armenia.[114]
+
+In May 2022, Nvidia opened Voyager, the second of the two giant buildings at its new headquarters
+complex to the west of the old one. Unlike its smaller and older sibling Endeavor, the triangle theming is
+used more "sparingly" in Voyager.[115][116]
+
+In September 2022, Nvidia announced its next-generation automotive-grade chip, Drive Thor.[117][118]
+
+In September 2022, Nvidia announced a collaboration with the Broad Institute of MIT and Harvard
+related to the entire suite of Nvidia's AI-powered healthcare software suite called Clara, that includes
+Parabricks and MONAI.[119]
+
+Following U.S. Department of Commerce regulations which placed an embargo on exports to China of
+advanced microchips, which went into effect in October 2022, Nvidia saw its data center chip added to
+the export control list. The next month, the company unveiled a new advanced chip in China, called the
+A800 GPU, that met the export control rules.[120]
+
+In September 2023, Getty Images announced that it was partnering with Nvidia to launch Generative AI
+by Getty Images, a new tool that lets people create images using Getty's library of licensed photos. Getty
+will use Nvidia's Edify model, which is available on Nvidia's generative AI model library Picasso.[121]
+
+On September 26, 2023, Denny's CEO Kelli Valade joined Huang in East San Jose to celebrate the
+founding of Nvidia at Denny's on Berryessa Road, where a plaque was installed to mark the relevant
+corner booth as the birthplace of a $1 trillion company.[26][122] By then, Nvidia's H100 GPUs were in
+such demand that even other tech giants were beholden to how Nvidia allocated supply. Larry Ellison of
+Oracle Corporation said that month that during a dinner with Huang at Nobu in Palo Alto, he and Elon
+Musk of Tesla, Inc. and xAI "were begging" for H100s, "I guess is the best way to describe it. An hour of
+sushi and begging".[123]
+
+In October 2023, it was reported that Nvidia had quietly begun designing ARM-based central processing
+units (CPUs) for Microsoft's Windows operating system with a target to start selling them in 2025.[124]
+
+
+
+2024–2025
+In January 2024, Forbes reported that Nvidia has increased its lobbying presence in Washington, D.C. as
+American lawmakers consider proposals to regulate artificial intelligence. From 2023 to 2024, the
+company reportedly hired at least four government affairs with professional backgrounds at agencies
+including the United States Department of State and the Department of the Treasury. It was noted that the
+$350,000 spent by the company on lobbying in 2023 was small compared to a number of major tech
+companies in the artificial intelligence space.[125]
+
+In January 2024, Raymond James Financial analysts estimated that Nvidia was selling the H100 GPU in
+the price range of $25,000 to $30,000 each, while on eBay, individual H100s cost over $40,000.[126]
+
+Several major technology companies were purchasing tens or hundreds of thousands of GPUs for their
+data centers to run generative artificial intelligence projects; simple arithmetic implied that they were
+committing to billions of dollars in capital expenditures.[126]
+
+In February 2024, it was reported that Nvidia was the "hot employer" in Silicon Valley because it was
+offering interesting work and good pay at a time when other tech employers were downsizing. Half of
+Nvidia employees earned over $228,000 in 2023.[127] By then, Nvidia GPUs had become so valuable that
+they needed special security while in transit to data centers. Cisco chief information officer Fletcher
+Previn explained at a CIO summit: "Those GPUs arrive by armored car".[128]
+
+On March 1, 2024, Nvidia became the third company in the history of the United States to close with a
+market capitalization in excess of $2 trillion.[45] Nvidia needed only 180 days to get to $2 trillion from $1
+trillion, while the first two companies, Apple and Microsoft, each took over 500 days.[45] On March 18,
+Nvidia announced its new AI chip and microarchitecture Blackwell, named after mathematician David
+Blackwell.[129]
+
+In April 2024, Reuters reported that China had allegedly acquired banned Nvidia chips and servers from
+Supermicro and Dell via tenders.[130]
+
+In June 2024, the Federal Trade Commission (FTC) and the Justice Department (DOJ) began antitrust
+investigations into Nvidia, Microsoft and OpenAI, focusing on their influence in the AI industry. The
+FTC led the investigations into Microsoft and OpenAI, while the DOJ handled Nvidia. The probes
+centered on the companies' conduct rather than mergers. This development followed an open letter from
+OpenAI employees expressing concerns about the rapid AI advancements and lack of oversight.[131]
+
+The company became the world's most valuable, surpassing Microsoft and Apple, on June 18, 2024, after
+its market capitalization exceeded $3.3 trillion.[132][133]
+
+In June 2024, Trend Micro announced a partnership with Nvidia to develop AI-driven security tools,
+notably to protect the data centers where AI workloads are processed. This collaboration integrates
+Nvidia NIM and Nvidia Morpheus with Trend Vision One and its Sovereign and Private Cloud solutions
+to improve data privacy, real-time analysis, and rapid threat mitigation.[134]
+
+In October 2024, Nvidia introduced a family of open-source multimodal large language models called
+NVLM 1.0, which features a flagship version with 72 billion parameters, designed to improve text-only
+performance after multimodal training.[135][136]
+
+In November 2024, the company was added to the Dow Jones Industrial Average.[137][138]
+
+
+
+In November 2024, Morgan Stanley reported that "the entire 2025 production" of all of Nvidia's
+Blackwell chips was "already sold out".[139]
+
+Also in November 2024, the company bought 1.2 million shares of Nebius Group.[140]
+
+Nvidia was ranked #3 on Forbes' "Best Places to Work" list in 2024.[141]
+
+As of January 7, 2025, Nvidia's $3.66 trillion market cap was worth more than double of the combined
+value of AMD, ARM, Broadcom, and Intel.[142]
+
+In January 2025, Nvidia saw the largest one-day loss in market capitalization for a U.S. company in
+history at $600 billion. This was due to DeepSeek, a Chinese AI startup that developed an advanced AI
+model at a lower cost and computing power.[143] DeepSeek's AI assistant, using the V3 model, surpassed
+ChatGPT as the highest-rated free app in the U.S. on Apple's App Store.[144][145]
+
+On April 7, 2025, Nvidia released the Llama-3.1-Nemotron-Ultra-253B-v1 reasoning large language
+model, under the Nvidia Open Model License. It comes in three sizes: Nano, Super and Ultra.[146]
+
+On May 28, 2025, Nvidia's second-quarter revenue forecast fell short of market estimates due to U.S.
+export restrictions impacting AI chip sales to China, yet the company's stock rose 5% as investors
+remained optimistic about long-term AI demand.[147]
+
+In July 2025, it was announced that Nvidia had acquired CentL, a Canadian-based AI firm.[148]
+
+On July 10, 2025, Nvidia closed for the first time with a market cap above $4 trillion, after its market cap
+briefly touched and then retreated from that number during the previous day.[149] Nvidia became the first
+company to reach a market cap of $4 trillion.[150] At that point, Nvidia was worth more than the
+combined value of all publicly traded companies in the United Kingdom.[149]
+
+On July 29, 2025, Nvidia ordered 300,000 H20 AI chips from Taiwan Semiconductor Manufacturing
+Company (TSMC) due to strong demand from Chinese tech firms like Tencent and Alibaba.[151]
+
+In August 2025, Nvidia and competitor Advanced Micro Devices agreed to pay 15% of the revenues from
+certain chip sales in China as part of an arrangement to obtain export licenses.[152] Nvidia will pay only
+for sales of the H20 chips.[153]
+
+Fabless manufacturing
+Nvidia uses external suppliers for all phases of manufacturing, including wafer fabrication, assembly,
+testing, and packaging. Nvidia thus avoids most of the investment and production costs and risks
+associated with chip manufacturing, although it does sometimes directly procure some components and
+materials used in the production of its products (e.g., memory and substrates). Nvidia focuses its own
+resources on product design, quality assurance, marketing, and customer support.[154][155]
+
+
+
+Corporate affairs
+Sales by business unit (2023)[156]
+
+Leadership Business unit Sales (billion $) Share
+Nvidia's key management as of March 2024 consists Compute & networking 47.4 77.8%
+of:[157]
+
+Graphics 13.5 22.2%
+
+Jensen Huang, founder, president and chief Sales by region (2023)[156]
+
+executive officer
+Region Sales (billion $) Share
+
+Chris Malachowsky, founder and Nvidia fellow
+Colette Kress, executive vice president and chief United States 27.0 44.3%
+financial officer Taiwan 13.4 22.0%
+Jay Puri, executive vice president of worldwide field China 10.3 16.9%
+operations
+Debora Shoquist, executive vice president of Other countries 10.2 16.8%
+operations
+Tim Teter, executive vice president, general counsel and secretary
+
+Board of directors
+As of November 2024, the company's board consisted of the following directors:[158]
+
+Rob Burgess (former chief executive officer of Macromedia Inc.)
+Tench Coxe (former managing director of Sutter Hill Ventures)
+John Dabiri (engineer and professor at the California Institute of Technology)
+Persis Drell (physicist and professor at Stanford University)
+Jensen Huang (co-founder, CEO and president of Nvidia)
+Dawn Hudson (former Chief Marketing Officer of the National Football League)
+Harvey C. Jones (managing partner of Square Wave Ventures)
+Melissa B. Lora (former president of Taco Bell International)
+Stephen Neal (lead independent director of Nvidia, former CEO and Chairman Emeritus and
+Senior Counsel of Cooley LLP)
+Ellen Ochoa (former director of NASA Johnson Space Center)
+Brooke Seawell (venture partner at New Enterprise Associates)
+Aarti Shah (former Senior Vice President & Chief Information and Digital Officer at Eli Lilly
+and Company)
+Mark Stevens (managing Partner at S-Cubed Capital)
+
+Finances
+For the fiscal year 2020, Nvidia reported earnings of US$2.796 billion, with an annual revenue of
+US$10.918 billion, a decline of 6.8% over the previous fiscal cycle. Nvidia's shares traded at over $531
+per share, and its market capitalization was valued at over US$328.7 billion in January 2021. [159][160]
+
+
+
+For the Q2 of 2020, Nvidia reported sales of $3.87 billion,
+which was a 50% rise from the same period in 2019. The
+surge in sales and people's higher demand for computer
+technology. According to the financial chief of the
+company, Colette Kress, the effects of the pandemic will
+"likely reflect this evolution in enterprise workforce trends
+with a greater focus on technologies, such as Nvidia
+laptops and virtual workstations, that enable remote work Nvidia stock price (1999–2023)
+and virtual collaboration."[161] In May 2023, Nvidia
+crossed $1 trillion in market valuation during trading
+hours,[162] 10-year financials (2016–2025)
+
+ and grew to $1.2 trillion by the following
+November.[163] Year Revenue Net income
+
+(mn. US$) (mn. US$) Employees
+
+2016 5,010 614 9,227
+Ownership 2017 6,910 1,666 10,299
+The 10 largest shareholders of Nvidia in early 2024 2018 9,714 3,047 11,528
+were:[156]
+
+2019 11,716 4,141 13,277
+
+The Vanguard Group (8.280%) 2020 10,918 2,796 13,775
+
+BlackRock (5.623%) 2021 16,675 4,332 18,975
+Fidelity Investments (5.161%) 2022 26,914 9,752 22,473
+State Street Corporation (3.711%)
+
+2023 26,974 4,368 26,000
+Jensen Huang (3.507%)
+Geode Capital Management (2.024%) 2024 60,922 29,760 29,600
+
+T. Rowe Price (2.013%) 2025 130,497 72,880 36,000
+JPMorgan Chase (1.417%)
+BlackRock Life (1.409%)
+Eaton Vance (1.337%)
+
+GPU Technology Conference
+Nvidia's GPU Technology Conference (GTC) is a series of technical conferences held around the
+world.[164] It originated in 2009 in San Jose, California, with an initial focus on the potential for solving
+computing challenges through GPUs.[165] In recent years, the conference's focus has shifted to various
+applications of artificial intelligence and deep learning; including self-driving cars, healthcare, high-
+performance computing, and Nvidia Deep Learning Institute (DLI) training.[166] GTC 2018 attracted over
+8400 attendees.[164] GTC 2020 was converted to a digital event and drew roughly 59,000 registrants.[167]
+
+After several years of remote-only events, GTC in March 2024 returned to an in-person format in San
+Jose, California.[168]
+
+Product families
+Nvidia's product families include graphics processing units, wireless communication devices, and
+automotive hardware and software, such as:
+
+GeForce, consumer-oriented graphics processing products
+
+
+
+RTX, professional visual computing graphics
+processing products (replacing GTX and Quadro)
+NVS, a multi-display business graphics processor
+Tegra, a system on a chip series for mobile devices
+Tesla, line of dedicated general-purpose GPUs for
+high-end image generation applications in
+professional and scientific fields
+nForce, a motherboard chipset created by Nvidia for
+Intel (Celeron, Pentium and Core 2) and AMD
+(Athlon and Duron) microprocessors A Shield Tablet with its accompanying
+GRID, a set of hardware and services by Nvidia for input pen (left) and gamepad
+graphics virtualization
+Shield, a range of gaming hardware including the
+Shield Portable, Shield Tablet and Shield TV
+Drive, a range of hardware and software products for designers and manufacturers of
+autonomous vehicles. The Drive PX-series is a high-performance computer platform aimed
+at autonomous driving through deep learning,[169] while Driveworks is an operating system
+for driverless cars.[170]
+
+BlueField, a range of data processing units, initially inherited from their acquisition of
+Mellanox Technologies[171][172]
+
+Datacenter/server class CPU, codenamed Grace, released in 2023[173][174]
+
+DGX, an enterprise platform designed for deep learning applications
+Maxine, a platform providing developers a suite of AI-based conferencing software[175]
+
+Open-source software support
+Until September 23, 2013, Nvidia had not published any documentation for its advanced hardware,[176]
+
+meaning that programmers could not write free and open-source device drivers for its products without
+resorting to reverse engineering.
+
+Instead, Nvidia provides its own binary GeForce graphics drivers for X.Org and an open-source library
+that interfaces with the Linux, FreeBSD or Solaris kernels and the proprietary graphics software. Nvidia
+also provided but stopped supporting an obfuscated open-source driver that only supports two-
+dimensional hardware acceleration and ships with the X.Org distribution.[177]
+
+The proprietary nature of Nvidia's drivers has generated dissatisfaction within free-software communities.
+In a 2012 talk, Linus Torvalds gave a middle-finger gesture and criticized Nvidia’s stance toward
+Linux."[178][179] Some Linux and BSD users insist on using only open-source drivers and regard Nvidia's
+insistence on providing nothing more than a binary-only driver as inadequate, given that competing
+manufacturers such as Intel offer support and documentation for open-source developers, and others like
+AMD release partial documentation and provide some active development.[180][181]
+
+Nvidia only provides x86/x64 and ARMv7-A versions of their proprietary driver; as a result, features like
+CUDA are unavailable on other platforms.[182] Some users claim that Nvidia's Linux drivers impose
+artificial restrictions, like limiting the number of monitors that can be used at the same time, but the
+company has not commented on these accusations.[183]
+
+
+
+In 2014, with its Maxwell GPUs, Nvidia started to require firmware by them to unlock all features of its
+graphics cards.[184][185][186]
+
+On May 12, 2022, Nvidia announced that they are opensourcing their GPU kernel modules.[187][188][189]
+
+Support for Nvidia's firmware was implemented in nouveau in 2023, which allows proper power
+management and GPU reclocking for Turing and newer graphics card generations.[190][191]
+
+In 21 July 2025, Nvidia announce to extend CUDA support to RISC-V.[192][193][194]
+
+List of Nvidia open-source projects
+Nouveau
+NVDLA
+PhysX
+VDPAU
+Vibrante
+GR00T[195]
+
+Deep learning
+Nvidia GPUs are used in deep learning, and accelerated analytics due to Nvidia's CUDA software
+platform and API which allows programmers to utilize the higher number of cores present in GPUs to
+parallelize BLAS operations which are extensively used in machine learning algorithms.[11] They were
+included in many Tesla, Inc. vehicles before Musk announced at Tesla Autonomy Day in 2019 that the
+company developed its own SoC and full self-driving computer now and would stop using Nvidia
+hardware for their vehicles.[196][197] These GPUs are used by researchers, laboratories, tech companies
+and enterprise companies.[198] In 2009, Nvidia was involved in what was called the "big bang" of deep
+learning, "as deep-learning neural networks were combined with Nvidia graphics processing units
+(GPUs)".[199] That year, the Google Brain team used Nvidia GPUs to create deep neural networks
+capable of machine learning, where Andrew Ng determined that GPUs could increase the speed of deep
+learning systems by about 100 times.[200]
+
+DGX
+DGX is a line of supercomputers by Nvidia.
+
+In April 2016, Nvidia produced the DGX-1 based on an 8 GPU cluster, to improve the ability of users to
+use deep learning by combining GPUs with integrated deep learning software.[201] Nvidia gifted its first
+DGX-1 to OpenAI in August 2016 to help it train larger and more complex AI models with the capability
+of reducing processing time from six days to two hours.[202][203] It also developed Nvidia Tesla K80 and
+P100 GPU-based virtual machines, which are available through Google Cloud, which Google installed in
+November 2016.[204] Microsoft added GPU servers in a preview offering of its N series based on Nvidia's
+Tesla K80s, each containing 4992 processing cores. Later that year, AWS's P2 instance was produced
+using up to 16 Nvidia Tesla K80 GPUs. That month Nvidia also partnered with IBM to create a software
+kit that boosts the AI capabilities of Watson,[205] called IBM PowerAI.[206][207] Nvidia also offers its own
+
+
+
+Nvidia Deep Learning software development kit.[208] In 2017, the GPUs were also brought online at the
+Riken Center for Advanced Intelligence Project for Fujitsu.[209] The company's deep learning technology
+led to a boost in its 2017 earnings.[210]
+
+In 2018, Nvidia researchers demonstrated imitation-learning techniques for industrial robots. They have
+created a system that, after a short revision and testing, can already be used to control the universal robots
+of the next generation. In addition to GPU manufacturing, Nvidia provides parallel processing
+capabilities to researchers and scientists that allow them to efficiently run high-performance
+applications.[211]
+
+Robotics
+In 2020, Nvidia unveiled "Omniverse", a virtual environment designed for engineers.[212] Nvidia also
+open-sourced Isaac Sim, which makes use of this Omniverse to train robots through simulations that
+mimic the physics of the robots and the real world.[213][214]
+
+In 2024, Huang oriented Nvidia's focus towards humanoid robots and self-driving cars, which he expects
+to gain widespread adoption.[215][216]
+
+In 2025, Nvidia announced Isaac GR00T N1, an open-source foundation model "designed to expedite the
+development and capabilities of humanoid robots". Neura Robotics, 1X Technologies and Vention are
+among the first companies to use the model.[217][218][219]
+
+Inception Program
+Nvidia's Inception Program was created to support startups making exceptional advances in the fields of
+artificial intelligence and data science. Award winners are announced at Nvidia's GTC Conference. In
+May 2017, the program had 1,300 companies.[220] As of March 2018, there were 2,800 startups in the
+Inception Program.[221] As of August 2021, the program has over 8,500 members in 90 countries, with
+cumulative funding of US$60 billion.[222]
+
+Controversies
+
+Maxwell advertising dispute
+
+GTX 970 hardware specifications
+Issues with the GeForce GTX 970's specifications were first brought up by users when they found out
+that the cards, while featuring 4  GB of memory, rarely accessed memory over the 3.5  GB boundary.
+Further testing and investigation eventually led to Nvidia issuing a statement that the card's initially
+announced specifications had been altered without notice before the card was made commercially
+available, and that the card took a performance hit once memory over the 3.5  GB limit were put into
+use.[223][224][225]
+
+
+
+The card's back-end hardware specifications, initially announced as being identical to those of the
+GeForce GTX 980, differed in the amount of L2 cache (1.75 MB versus 2 MB in the GeForce GTX 980)
+and the number of ROPs (56 versus 64 in the 980). Additionally, it was revealed that the card was
+designed to access its memory as a 3.5 GB section, plus a 0.5 GB one, access to the latter being 7 times
+slower than the first one.[226] The company then went on to promise a specific driver modification to
+alleviate the performance issues produced by the cutbacks suffered by the card.[227] However, Nvidia
+later clarified that the promise had been a miscommunication and there would be no specific driver
+update for the GTX 970.[228] Nvidia claimed that it would assist customers who wanted refunds in
+obtaining them.[229] On February 26, 2015, Nvidia CEO Jensen Huang went on record in Nvidia's official
+blog to apologize for the incident.[230] In February 2015 a class-action lawsuit alleging false advertising
+was filed against Nvidia and Gigabyte Technology in the U.S. District Court for Northern
+California.[231][232]
+
+Nvidia revealed that it is able to disable individual units, each containing 256  KB of L2 cache and 8
+ROPs, without disabling whole memory controllers.[233] This comes at the cost of dividing the memory
+bus into high speed and low speed segments that cannot be accessed at the same time unless one segment
+is reading while the other segment is writing because the L2/ROP unit managing both of the GDDR5
+controllers shares the read return channel and the write data bus between the two GDDR5 controllers and
+itself.[233] This is used in the GeForce GTX 970, which therefore can be described as having 3.5 GB in its
+high speed segment on a 224-bit bus and 0.5 GB in a low speed segment on a 32-bit bus.[233]
+
+On July 27, 2016, Nvidia agreed to a preliminary settlement of the U.S. class action lawsuit,[231] offering
+a $30 refund on GTX 970 purchases. The agreed upon refund represents the portion of the cost of the
+storage and performance capabilities the consumers assumed they were obtaining when they purchased
+the card.[234]
+
+GeForce Partner Program
+The Nvidia GeForce Partner Program was a marketing program designed to provide partnering
+companies with benefits such as public relations support, video game bundling, and marketing
+development funds.[235] The program proved to be controversial, with complaints about it possibly being
+an anti-competitive practice.[236]
+
+First announced in a blog post on March 1, 2018,[237] it was canceled on May 4, 2018.[238]
+
+Hardware Unboxed
+On December 10, 2020, Nvidia told YouTube tech reviewer Steven Walton of Hardware Unboxed that it
+would no longer supply him with GeForce Founders Edition graphics card review units.[239][240] In a
+Twitter message, Hardware Unboxed said, "Nvidia have officially decided to ban us from receiving
+GeForce Founders Edition GPU review samples. Their reasoning is that we are focusing on rasterization
+instead of ray tracing. They have said they will revisit this 'should your editorial direction change.' "[241]
+
+In emails that were disclosed by Walton from Nvidia Senior PR Manager Bryan Del Rizzo, Nvidia had
+said:
+
+
+
+...your GPU reviews and recommendations have continued to focus singularly on
+rasterization performance, and you have largely discounted all of the other technologies we
+offer gamers. It is very clear from your community commentary that you do not see things
+the same way that we, gamers, and the rest of the industry do.[242]
+
+TechSpot, partner site of Hardware Unboxed, said, "this and other related incidents raise serious
+questions around journalistic independence and what they are expecting of reviewers when they are sent
+products for an unbiased opinion."[242]
+
+A number of technology reviewers came out strongly against Nvidia's move.[243][244] Linus Sebastian, of
+Linus Tech Tips, titled the episode of his weekly WAN Show, "NVIDIA might ACTUALLY be
+EVIL..."[245] and was highly critical of the company's move to dictate specific outcomes of technology
+reviews.[246] The review site Gamers Nexus said it was, "Nvidia's latest decision to shoot both its feet:
+They've now made it so that any reviewers covering RT will become subject to scrutiny from untrusting
+viewers who will suspect subversion by the company. Shortsighted self-own from NVIDIA."[247]
+
+Two days later, Nvidia reversed their stance.[248][249] Hardware Unboxed sent out a Twitter message, "I
+just received an email from Nvidia apologizing for the previous email & they've now walked everything
+back."[250][243] On December 14, Hardware Unboxed released a video explaining the controversy from
+their viewpoint.[251] Via Twitter, they also shared a second apology sent by Nvidia's Del Rizzo that said
+"to withhold samples because I didn't agree with your commentary is simply inexcusable and crossed the
+line."[252][253]
+
+Improper disclosures about cryptomining
+In 2018, Nvidia's chips became popular for cryptomining, the process of obtaining crypto rewards in
+exchange for verifying transactions on distributed ledgers, the U.S. Securities and Exchange Commission
+(SEC) said. However, the company failed to disclose that it was a "significant element" of its revenue
+growth from sales of chips designed for gaming, the SEC further added in a statement and charging order.
+Those omissions misled investors and analysts who were interested in understanding the impact of
+cryptomining on Nvidia's business, the SEC emphasized. Nvidia, which did not admit or deny the
+findings, has agreed to pay $5.5 million to settle civil charges, according to a statement made by the SEC
+in May 2022.[254]
+
+French Competition Authority Investigation
+On September 26, 2023, Nvidia's French offices were searched by the French Competition Authority. The
+raid, authorized by a judge, was part of an investigation into suspected anti-competitive practices in the
+graphics card sector. Nvidia has not publicly commented on the incident.[255]
+
+AI regulation dispute with Anthropic
+In July 2025, a public dispute emerged between Nvidia CEO Jensen Huang and Anthropic CEO Dario
+Amodei over AI regulation and industry practices. The conflict escalated when Amodei vehemently
+denied Huang's allegations that he sought to control the AI industry through safety concerns, calling
+Huang's claims an "outrageous lie."[256] The dispute centered on differing philosophies regarding AI
+
+
+
+development, with Amodei advocating for stronger regulatory oversight and "responsible scaling
+policies," while Huang promoted open-source development and criticized what Nvidia characterized as
+"regulatory capture."[256] Nvidia responded by stating that "lobbying for regulatory capture against open
+source will only stifle innovation, make AI less safe and secure, and less democratic."[256] The
+controversy highlighted broader tensions within the AI industry between companies favoring rapid
+development and those emphasizing safety measures and regulation.[256]
+
+Proposed Shanghai facility
+In May 2025, U.S. senators Jim Banks and Elizabeth Warren criticized a proposed Nvidia facility in
+Shanghai, saying that it "raises significant national security and economic security issues that warrant
+serious review."[257]
+
+H20 production halt (2025)
+In August 2025, Nvidia ordered suppliers to halt production of its H20 AI chip following Chinese
+government directives warning domestic companies against purchasing the processor due to security
+concerns.[258][259] The company directed suppliers including Taiwan Semiconductor Manufacturing
+Company, Samsung Electronics, and Amkor Technology to suspend work on the China-focused
+processor.[260]
+
+The H20 was developed in late 2023 specifically for the Chinese market to comply with U.S. export
+restrictions, featuring 96GB of HBM3 memory and 4.0 TB/s memory bandwidth—higher than the H100
+—but with significantly reduced computational power at 296 TFLOPs compared to the H100's 1979
+TFLOPs.[261][262] Despite lower raw performance, the H20 demonstrated over 20% faster performance
+than the H100 in large language model inference tasks due to architectural optimizations.[261][262]
+
+Prior to the production halt, Nvidia had placed substantial orders for the H20, including 300,000 units
+from TSMC in July 2025, driven by strong demand from Chinese technology companies.[263] CEO
+Jensen Huang denied allegations that the H20 contained security backdoors, stating the chips were
+designed solely for commercial use.[264] The production suspension occurred as Nvidia was developing
+the B30A, a new chip based on its Blackwell architecture intended to succeed the H20 in the Chinese
+market.[265]
+
+See also
+San Francisco Bay
+Area portal
+Companies portal
+
+Electronics portal
+
+Technology portal
+
+Fast approximate anti-aliasing
+General-purpose computing on graphics processing units
+Huang's law
+
+
+
+Molecular modeling on GPUs
+Nvidia Parabricks - GPU-accelerated genomics toolkit
+GPU workstations
+Groq
+
+Notes
+
+a. Officially written as NVIDIA Corporation and stylized in its logo as nVIDIA with the
+lowercase "n" the same height as the uppercase "VIDIA". Formerly stylized with an italicized
+lowercase "n".[3] The unofficial capitalization nVidia is sometimes used by publications.[4]
+
+References
+1. "NVIDIA FY25 10K" (https://www.sec.gov/Archives/edgar/data/1045810/0001045810250000
+
+23/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_103). Retrieved
+February 27, 2025.
+
+2. "US SEC: EXHIBIT 21.1: List of Nvidia subsidiaries" (https://www.sec.gov/Archives/edgar/da
+ta/1045810/000104581023000017/listofregistrantssubsidiar.htm). U.S. Securities and
+Exchange Commission. February 24, 2023. Archived (https://web.archive.org/web/2023110
+3040909/https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/listofregi
+strantssubsidiar.htm) from the original on November 3, 2023. Retrieved November 3, 2023.
+
+3. "NVIDIA Logo Guidelines at a Glance" (http://international.download.nvidia.com/partnerforce
+-us/Brand-Guidelines/NVIDIA_LogoGuidelines.pdf) (PDF). nvidia.com. Nvidia. Archived (http
+s://ghostarchive.org/archive/20221009/http://international.download.nvidia.com/partnerforce-
+us/Brand-Guidelines/NVIDIA_LogoGuidelines.pdf) (PDF) from the original on October 9,
+2022. Retrieved March 21, 2018.
+
+4. Morgan, Timothy Prickett. "Microsoft, nVidia tag team on HPC" (https://www.theregister.com/
+2009/09/28/microsoft_nvidia_collaboration/). www.theregister.com. Archived (https://web.arc
+hive.org/web/20220407214002/https://www.theregister.com/2009/09/28/microsoft_nvidia_co
+llaboration/) from the original on April 7, 2022. Retrieved March 12, 2022.
+
+5. Goldman, Sharon (February 23, 2023). "How Nvidia dominated AI — and plans to keep it
+that way as generative AI explodes" (https://venturebeat.com/ai/how-nvidia-dominated-ai-an
+d-plans-to-keep-it-that-way-as-generative-ai-explodes/). VentureBeat. Archived (https://web.
+archive.org/web/20230301074856/https://venturebeat.com/ai/how-nvidia-dominated-ai-and-
+plans-to-keep-it-that-way-as-generative-ai-explodes/) from the original on March 1, 2023.
+Retrieved March 1, 2023.
+
+6. Cosgrove, Emma. "Nvidia CEO Jensen Huang directly addresses the DeepSeek stock sell-
+off, saying investors got it wrong" (https://www.businessinsider.com/nvidia-ceo-jensen-huan
+g-addresses-deepseek-stock-sell-off-2025-2). Business Insider. Retrieved February 21,
+2025.
+
+7. Farooque, Faizan (June 6, 2025). "Nvidia Secures 92% GPU Market Share in Q1 2025" (htt
+ps://finance.yahoo.com/news/nvidia-secures-92-gpu-market-150444612.html). Yahoo
+Finance. Retrieved July 22, 2025.
+
+8. Jon Peddie Research (June 5, 2025). "Q1'25 PC graphics add-in board shipments
+increased 8.5% from last quarter due to Nvidia's Blackwell ramping up" (https://www.jonped
+die.com/news/q125-pc-graphics-add-in-board-shipments-increased-8-5-from-last-quarter-du
+e-to-nvidias-blackwell-ramping-up/). Jon Peddie Research.
+
+
+
+9. Mickle, Tripp (July 10, 2025). "Nvidia Becomes First Public Company Worth $4 Trillion" (http
+s://www.nytimes.com/2025/07/10/technology/nvidia-4-trillion-market-value.html). The New
+York Times. Retrieved July 22, 2025.
+
+10. "NVIDIA Doesn't Want Cryptocurrency Miners to Buy Its Gaming GPUs" (https://www.msn.c
+om/en-us/money/markets/nvidia-doesn-t-want-cryptocurrency-miners-to-buy-its-gaming-gpu
+s/ar-BB1e0KzQ). MSN. Archived (https://web.archive.org/web/20210414055629/https://ww
+w.msn.com/en-us/money/markets/nvidia-doesn-t-want-cryptocurrency-miners-to-buy-its-ga
+ming-gpus/ar-BB1e0KzQ) from the original on April 14, 2021. Retrieved April 5, 2021.
+
+11. Kirk, David; Hwu, Wen-Mei (2017). Programming Massively Parallel Processors (Third ed.).
+Elsevier. p. 345. ISBN 978-0-12-811986-0.
+
+12. Moore, Samuel K (September 7, 2023). "The Secret to Nvidia's AI Success" (https://spectru
+m.ieee.org/nvidia-gpu). IEEE Spectrum. Archived (https://web.archive.org/web/2023110304
+0911/https://spectrum.ieee.org/nvidia-gpu) from the original on November 3, 2023.
+Retrieved November 3, 2023.
+
+13. Burns, Chris (August 3, 2011). "2011 The Year of Nvidia dominating Android Superphones
+and tablets" (http://www.slashgear.com/2011-the-year-of-nvidia-dominating-android-superph
+ones-and-tablets-03168784/). SlashGear. Archived (https://web.archive.org/web/202010291
+72432/https://www.slashgear.com/2011-the-year-of-nvidia-dominating-android-superphones
+-and-tablets-03168784/) from the original on October 29, 2020. Retrieved September 14,
+2011.
+
+14. "Tegra Super Tablets" (https://www.nvidia.com/object/tegra-supertablets.html). Nvidia.
+Archived (https://web.archive.org/web/20131013042859/http://www.nvidia.com/object/tegra-
+supertablets.html) from the original on October 13, 2013. Retrieved September 14, 2011.
+
+15. "Tegra Super Phones" (https://www.nvidia.com/object/tegra-superphones.html). Nvidia.
+Archived (https://web.archive.org/web/20131013031649/http://www.nvidia.com/object/tegra-
+superphones.html) from the original on October 13, 2013. Retrieved September 14, 2011.
+
+16. "Nvidia touches $1 trillion market cap as chipmaker rides AI wave" (https://finance.yahoo.co
+m/news/nvidia-touches-1-trillion-market-cap-as-chipmaker-rides-ai-wave-133530381.html).
+Yahoo Finance. May 30, 2023. Archived (https://web.archive.org/web/20230530135203/http
+s://finance.yahoo.com/news/nvidia-touches-1-trillion-market-cap-as-chipmaker-rides-ai-wav
+e-133530381.html) from the original on May 30, 2023. Retrieved February 17, 2024.
+
+17. Hart, Robert. "Chip Stock Rally Continues Wednesday After AI Boom Catapults Nvidia To
+World's Most Valuable Company" (https://www.forbes.com/sites/roberthart/2024/06/19/chip-
+stock-rally-continues-wednesday-after-ai-boom-catapults-nvidia-to-worlds-most-valuable-co
+mpany/). Forbes. Retrieved August 26, 2024.
+
+18. Duffy, Clare (February 21, 2024). "AI boom drove Nvidia profits up 580% last year" (https://w
+ww.cnn.com/2024/02/21/tech/nvidia-ai-sales-boom). CNN. Retrieved August 26, 2024.
+
+19. "Why the Magnificent Seven Shapes US Stocks" (https://www.bloomberg.com/news/articles/
+2024-01-12/the-magnificent-seven-shape-us-stocks-microsoft-apple-nvidia-and-more).
+Bloomberg. January 12, 2024. Retrieved August 5, 2025.
+
+20. "Company Info" (https://www.nvidia.com/page/corporate_timeline.html). Nvidia.com.
+Archived (https://web.archive.org/web/20180701130728/http://www.nvidia.com/page/corpor
+ate_timeline.html) from the original on July 1, 2018. Retrieved November 9, 2010.
+
+21. "Jensen Huang: Executive Profile & Biography" (https://www.bloomberg.com/research/stock
+s/private/person.asp?personId=230160&privcapId=32307). Bloomberg News. Archived (http
+s://web.archive.org/web/20180622004950/https://www.bloomberg.com/research/stocks/priv
+ate/person.asp?personId=230160&privcapId=32307) from the original on June 22, 2018.
+Retrieved June 21, 2018.
+
+22. Huang, Jen-Hsun (April 5, 1993). "Articles of Incorporation of NVidia Corporation" (https://biz
+fileonline.sos.ca.gov/api/report/GetImageByNum/0341170590520770440900920102552520
+84026143162165). bizfile online. California Secretary of State. Retrieved October 11, 2024.
+
+
+
+23. "NVIDIA Company History: Innovations Over the Years" (https://www.nvidia.com/en-us/abou
+t-nvidia/corporate-timeline/). NVIDIA. Archived (https://web.archive.org/web/2024030901282
+1/https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/) from the original on March
+9, 2024. Retrieved April 17, 2021.
+
+24. "NVIDIA Corporation | History, Headquarters, & Facts" (https://www.britannica.com/topic/NVI
+DIA-Corporation). Encyclopedia Britannica. Archived (https://web.archive.org/web/20210426
+123917/https://www.britannica.com/topic/NVIDIA-Corporation) from the original on April 26,
+2021. Retrieved April 17, 2021.
+
+25. Tilley, Aaron (November 30, 2016). "The New Intel: How Nvidia Went From Powering Video
+Games To Revolutionizing Artificial Intelligence" (https://www.forbes.com/sites/aarontilley/20
+16/11/30/nvidia-deep-learning-ai-intel/?sh=6c0e3f037ff1). Forbes. Archived (https://web.arch
+ive.org/web/20230314141243/https://www.forbes.com/sites/aarontilley/2016/11/30/nvidia-de
+ep-learning-ai-intel/?sh=6c0e3f037ff1) from the original on March 14, 2023. Retrieved
+March 14, 2023. This article was written by a Forbes staff member and was published in the
+December 19, 2016, issue of Forbes magazine.
+
+26. Witt, Stephen (November 27, 2023). "How Jensen Huang's Nvidia Is Powering the A.I.
+Revolution" (https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is
+-powering-the-ai-revolution). The New Yorker. Archived (https://archive.today/202311271549
+17/https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering
+-the-ai-revolution) from the original on November 27, 2023. Retrieved December 5, 2023.
+
+27. Whitaker, Bill (April 28, 2024). "Meet Nvidia CEO Jensen Huang, the man behind the $2
+trillion company powering today's artificial intelligence" (https://www.cbsnews.com/news/me
+et-nvida-ceo-jensen-huang-company-powering-ai-today-60-minutes-transcript/). 60 Minutes.
+Retrieved June 19, 2024.
+
+28. Kim, Tae (2024). The Nvidia Way: Jensen Huang and the Making of a Tech Giant. New York:
+W.W. Norton & Company. p. 37. ISBN 978-1324086710.
+
+29. Nusca, Andrew (November 16, 2017). "This Man Is Leading an AI Revolution in Silicon
+Valley—And He's Just Getting Started" (https://web.archive.org/web/20171116192021/http://
+fortune.com/2017/11/16/nvidia-ceo-jensen-huang/). Fortune. Archived from the original (http
+s://fortune.com/2017/11/16/nvidia-ceo-jensen-huang/) on November 16, 2017. Retrieved
+November 28, 2017.
+
+30. Kim, Tae (2024). The Nvidia Way: Jensen Huang and the Making of a Tech Giant. New York:
+W.W. Norton & Company. p. 38. ISBN 978-1324086710.
+
+31. Kim, Tae (2024). The Nvidia Way: Jensen Huang and the Making of a Tech Giant. New York:
+W.W. Norton & Company. p. 39. ISBN 978-1324086710.
+
+32. Kim, Tae (2024). The Nvidia Way: Jensen Huang and the Making of a Tech Giant. New York:
+W.W. Norton & Company. p. 41. ISBN 978-1324086710.
+
+33. Williams, Elisa (April 15, 2002). "Crying wolf" (https://www.forbes.com/global/2002/0415/03
+2.html). Forbes. Archived (https://web.archive.org/web/20201129211130/https://www.forbes.
+com/global/2002/0415/032.html) from the original on November 29, 2020. Retrieved
+February 11, 2017. "Huang, a chip designer at AMD and LSI Logic, co-founded the
+company in 1993 with $2 million from Sequoia Capital and others."
+
+34. Kim, Tae (2024). The Nvidia Way: Jensen Huang and the Making of a Tech Giant. New York:
+W.W. Norton & Company. p. 42. ISBN 978-1324086710.
+
+35. Peddie, Jon (September 23, 2019). "Nvidia's RIVA 128" (https://www.electronicdesign.com/t
+echnologies/embedded/article/21131077/jon-peddie-research-nvidias-riva-128). Electronic
+Design. Archived (https://web.archive.org/web/20240119155034/https://www.electronicdesig
+n.com/technologies/embedded/article/21131077/jon-peddie-research-nvidias-riva-128) from
+the original on January 19, 2024. Retrieved December 5, 2023.
+
+36. Kim, Tae (2024). The Nvidia Way: Jensen Huang and the Making of a Tech Giant (1st ed.).
+W. W. Norton & Company, Incorporated. ISBN 978-1-324-08672-7.
+
+
+
+37. Cohen, Ben (May 18, 2024). "The 84-Year-Old Man Who Saved Nvidia" (https://www.wsj.co
+m/business/nvidia-stock-jensen-huang-sega-irimajiri-chips-ai-906247db). The Wall Street
+Journal. Archived (https://archive.today/20240518101129/https://www.wsj.com/business/nvi
+dia-stock-jensen-huang-sega-irimajiri-chips-ai-906247db) from the original on May 18, 2024.
+
+38. Fulton, Kane (July 20, 2015). "19 graphics cards that shaped the future of gaming" (https://w
+ww.techradar.com/news/gaming/19-graphics-cards-that-shaped-the-future-of-gaming-12896
+66). TechRadar. Retrieved September 3, 2024.
+
+39. Feinstein, Ken (January 22, 1999). "Nvidia Goes Public" (https://web.archive.org/web/19991
+012205847/http://gamecenter.com/News/Item/0,3,0-2433,00.html). gamecenter.co. Archived
+from the original (http://gamecenter.com/News/Item/0,3,0-2433,00.html) on October 12,
+1999. Retrieved July 13, 2019.
+
+40. Takahashi, Dean (January 25, 1999). "Shares of Nvidia Surge 64% After Initial Public
+Offering" (https://www.wsj.com/articles/SB917224371262043000). The Wall Street Journal.
+Archived (https://web.archive.org/web/20190405073139/https://www.wsj.com/articles/SB917
+224371262043000) from the original on April 5, 2019. Retrieved July 13, 2019.
+
+41. "NVIDIA Corporation Announces Initial Public Offering of 3,500,000 Shares of Common
+Stock" (https://www.nvidia.com/object/IO_20020108_6739.html). nvidia.com. January 22,
+1999. Archived (https://web.archive.org/web/20190713074208/https://www.nvidia.com/objec
+t/IO_20020108_6739.html) from the original on July 13, 2019. Retrieved July 13, 2019.
+
+42. Perez, Derek; Hara, Michael (December 15, 2000). "NVIDIA to Acquire 3dfx Core Graphics
+Assets" (https://www.nvidia.com/object/IO_20010612_6602.html) (Press release). Santa
+Clara, CA. Archived (https://web.archive.org/web/20190330171444/https://www.nvidia.com/
+object/IO_20010612_6602.html) from the original on March 30, 2019. Retrieved January 23,
+2017.
+
+43. Leupp, Alex; Sellers, Scott (December 15, 2000). "3dfx Announces Three Major Initiatives
+To Protect Creditors and Maximize Shareholder Value" (https://web.archive.org/web/200102
+05193000/http://3dfx.com/rel-15dec_2.htm) (Press release). San Jose, CA. Archived from
+the original (http://3dfx.com/rel-15dec_2.htm) on February 5, 2001. Retrieved January 23,
+2017. "Board of Directors Initiates Cost-Cutting Measures, Recommends to Shareholders
+Sale of Company Assets to NVIDIA Corporation for $112 million and Dissolution of
+Company"
+
+44. Kanellos, Michael (April 11, 2002). "Nvidia buys out 3dfx graphics chip business" (https://ww
+w.cnet.com/news/nvidia-buys-out-3dfx-graphics-chip-business/). CNET. Archived (https://we
+b.archive.org/web/20210119063532/https://www.cnet.com/news/nvidia-buys-out-3dfx-graphi
+cs-chip-business/) from the original on January 19, 2021. Retrieved January 23, 2017.
+
+45. Popina, Elena; Menton, Jess (March 6, 2024). "Nvidia Is the Latest Shiny Object to Spur
+Stocks to New Heights" (https://www.bloomberg.com/news/articles/2024-03-06/nvidia-ai-sto
+cks-are-latest-trend-to-send-s-p-500-to-new-highs). Bloomberg Businessweek. Archived (htt
+ps://web.archive.org/web/20240306100548/https://www.bloomberg.com/news/articles/2024-
+03-06/nvidia-ai-stocks-are-latest-trend-to-send-s-p-500-to-new-highs) from the original on
+March 6, 2024. Retrieved March 6, 2024.
+
+46. Becker, David. "Nvidia buys out Exluna" (http://news.cnet.com/Nvidia-buys-software-compa
+ny/2100-1040_3-945553.html). News.cnet.com. Archived (https://web.archive.org/web/2014
+1017134328/http://news.cnet.com/Nvidia-buys-software-company/2100-1040_3-945553.htm
+l) from the original on October 17, 2014. Retrieved November 9, 2010.
+
+47. "NVIDIA Completes Purchase of MediaQ" (https://web.archive.org/web/20140109223435/htt
+p://www.mediaq.com/page/home.html). Press Release. NVIDIA Corporation. August 21,
+2003. Archived from the original (http://www.mediaq.com/page/home.html) on January 9,
+2014. Retrieved August 21, 2016.
+
+48. "NVIDIA Announces Acquisition of iReady" (https://www.nvidia.com/object/IO_12881.html).
+Press Release. NVIDIA Corporation. April 22, 2004. Archived (https://web.archive.org/web/2
+0171231211950/https://www.nvidia.com/object/IO_12881.html) from the original on
+December 31, 2017. Retrieved August 21, 2016.
+
+
+
+49. "NVIDIA to Acquire ULi Electronics, a Leading Developer of Core Logic Technology" (https://
+www.nvidia.com/object/IO_28250.html). Press Release. NVIDIA Corporation. December 14,
+2005. Archived (https://web.archive.org/web/20190602092801/https://www.nvidia.com/objec
+t/IO_28250.html) from the original on June 2, 2019. Retrieved August 21, 2016.
+
+50. Smith, Tony (March 22, 2006). "Nvidia acquires Hybrid Graphics – Middleware purchase" (ht
+tps://web.archive.org/web/20130116072844/http://www.reghardware.com/2006/03/22/nvidia
+_buys_hybrid/). Hardware. The Register. Archived from the original (http://www.reghardwar
+e.com/2006/03/22/nvidia_buys_hybrid/) on January 16, 2013. Retrieved August 21, 2016.
+
+51. Krazit, Tom; McCarthy, Caroline (December 1, 2006). "Justice Dept. subpoenas AMD,
+Nvidia" (https://web.archive.org/web/20061208175421/http://news.zdnet.com/2100-9584_22
+-6140041.html). New York Times. Archived from the original (http://news.zdnet.com/2100-95
+84_22-6140041.html) on December 8, 2006.
+
+52. Brian Caulfield (January 7, 2008). "Shoot to Kill" (https://www.forbes.com/forbes/2008/0107/
+092.html). Forbes. Archived (https://web.archive.org/web/20180918231637/https://www.forb
+es.com/forbes/2008/0107/092.html) from the original on September 18, 2018. Retrieved
+December 26, 2007.
+
+53. "Nvidia acquires PortalPlayer" (https://www.nvidia.com/object/portalplayer_acquisition.html).
+Press Release. NVIDIA Corporation. January 5, 2007. Archived (https://web.archive.org/we
+b/20170630133005/http://www.nvidia.com/object/portalplayer_acquisition.html) from the
+original on June 30, 2017. Retrieved August 21, 2016.
+
+54. "Nvidia to acquire Ageia for the PhysX chip" (https://www.cnet.com/news/nvidia-to-acquire-a
+geia-for-the-physx-chip/). CNET. Archived (https://web.archive.org/web/20180918231037/htt
+ps://www.cnet.com/news/nvidia-to-acquire-ageia-for-the-physx-chip/) from the original on
+September 18, 2018. Retrieved May 26, 2017.
+
+55. "Did NVIDIA cripple its CPU gaming physics library to spite Intel?" (https://arstechnica.com/g
+aming/2010/07/did-nvidia-cripple-its-cpu-gaming-physics-library-to-spite-intel/). Ars
+Technica. July 9, 2010. Archived (https://web.archive.org/web/20210112015332/https://arste
+chnica.com/gaming/2010/07/did-nvidia-cripple-its-cpu-gaming-physics-library-to-spite-intel/)
+from the original on January 12, 2021. Retrieved May 26, 2017.
+
+56. "Nvidia GPU Class-Action Settlement Offers Repairs, New Laptops" (https://www.pcmag.co
+m/article2/0,2817,2370032,00.asp). PC Magazine. Archived (https://web.archive.org/web/20
+190110081429/https://www.pcmag.com/article2/0,2817,2370032,00.asp) from the original
+on January 10, 2019. Retrieved May 26, 2017.
+
+57. "Update: Nvidia Says Older Mobile GPUs, Chipsets Failing" (https://www.extremetech.com/e
+xtreme/82266-update-nvidia-says-older-mobile-gpus-chipsets-failing). ExtremeTech. July 3,
+2008. Archived (https://web.archive.org/web/20201030143138/https://www.extremetech.co
+m/extreme/82266-update-nvidia-says-older-mobile-gpus-chipsets-failing) from the original
+on October 30, 2020. Retrieved May 26, 2017.
+
+58. "Intel agrees to pay NVIDIA $1.5b in patent license fees, signs cross-license" (https://www.e
+ngadget.com/2011/01/10/intel-agrees-to-pay-nvidia-1-5b-in-patent-license-fees-signs-c/).
+Engadget. January 10, 2011. Archived (https://web.archive.org/web/20181217220145/http
+s://www.engadget.com/2011/01/10/intel-agrees-to-pay-nvidia-1-5b-in-patent-license-fees-sig
+ns-c/) from the original on December 17, 2018. Retrieved May 26, 2017.
+
+59. "Nvidia Tegra 3: what you need to know" (http://www.techradar.com/news/mobile-computing/
+nvidia-tegra-3-what-you-need-to-know-1039584). Techradar. November 9, 2011. Archived (h
+ttps://web.archive.org/web/20201204225157/https://www.techradar.com/news/mobile-comp
+uting/nvidia-tegra-3-what-you-need-to-know-1039584) from the original on December 4,
+2020. Retrieved May 26, 2017.
+
+60. "Nvidia Quad Core Mobile Processors Coming in August" (http://www.pcworld.com/article/21
+9768/nvidia_quad_core_mobile_processors_coming_in_august.html). PC World. Archived
+(https://web.archive.org/web/20160729190458/http://www.pcworld.com/article/219768/nvidia
+_quad_Core_mobile_processors_coming_in_august.html) from the original on July 29,
+2016. Retrieved February 15, 2011.
+
+
+
+61. "Cambridge coup as Icera goes to Nvidia for £225m" (https://web.archive.org/web/20150112
+153522/http://www.businessweekly.co.uk/hi-tech/11782-cambridge-coup-as-icera-goes-to-n
+vidia-for-p225m). Business Weekly. May 9, 2011. Archived from the original (http://www.busi
+nessweekly.co.uk/hi-tech/11782-cambridge-coup-as-icera-goes-to-nvidia-for-p225m) on
+January 12, 2015. Retrieved May 10, 2011.
+
+62. "Nvidia announces Project Shield handheld gaming system with 5-inch multitouch display,
+available in Q2 of this year" (https://www.theverge.com/2013/1/7/3845282/nvidia-announces
+-project-shield-handheld-gaming-system). The Verge. January 7, 2013. Archived (https://we
+b.archive.org/web/20201219055620/https://www.theverge.com/2013/1/7/3845282/nvidia-an
+nounces-project-shield-handheld-gaming-system) from the original on December 19, 2020.
+Retrieved May 26, 2017.
+
+63. "NVIDIA Pushes Further into HPC With Portland Group Acquisition – insideHPC" (https://insi
+dehpc.com/2013/07/nvidia-acquires-the-portland-group-to-double-down-on-hpc/).
+insideHPC. July 29, 2013. Archived (https://web.archive.org/web/20201022151805/https://in
+sidehpc.com/2013/07/nvidia-acquires-the-portland-group-to-double-down-on-hpc/) from the
+original on October 22, 2020. Retrieved August 25, 2017.
+
+64. McMillan, Robert (February 20, 2013). "Nvidia Answers Apple Spaceship With Triangle
+Temple" (https://www.wired.com/2013/02/nvidia-hq/). Wired. Archived (https://web.archive.or
+g/web/20240223182712/https://www.wired.com/2013/02/nvidia-hq/) from the original on
+February 23, 2024. Retrieved February 24, 2024.
+
+65. Machkovech, Sam (May 12, 2014). "Half-Life 2, Portal see first-ever Android ports on Nvidia
+Shield" (https://arstechnica.com/gaming/2014/05/half-life-2-portal-see-first-ever-android-port
+s-on-nvidia-shield/). Ars Technica. Archived (https://web.archive.org/web/20220708142058/h
+ttps://arstechnica.com/gaming/2014/05/half-life-2-portal-see-first-ever-android-ports-on-nvidi
+a-shield/) from the original on July 8, 2022. Retrieved July 8, 2022.
+
+66. "Nvidia CEO Jensen Huang weighs in on the metaverse, blockchain, and chip shortage" (htt
+ps://venturebeat.com/2021/06/12/nvidia-ceo-jensen-huang-weighs-in-on-the-metaverse-bloc
+kchain-chip-shortage-arm-deal-and-competition/). VentureBeat. June 12, 2021. Archived (htt
+ps://web.archive.org/web/20220708142058/https://venturebeat.com/2021/06/12/nvidia-ceo-j
+ensen-huang-weighs-in-on-the-metaverse-blockchain-chip-shortage-arm-deal-and-competiti
+on/) from the original on July 8, 2022. Retrieved July 8, 2022.
+
+67. Team, Trefis (December 31, 2014). "Nvidia's Performance In 2014: Factors That Are Driving
+Growth" (https://www.forbes.com/sites/greatspeculations/2014/12/31/nvidias-performance-in
+-2014-factors-that-are-driving-growth/). Forbes. Archived (https://web.archive.org/web/20150
+920182711/http://www.forbes.com/sites/greatspeculations/2014/12/31/nvidias-performance-i
+n-2014-factors-that-are-driving-growth/) from the original on September 20, 2015. Retrieved
+October 7, 2020.
+
+68. In re 3dfx Interactive, Inc. (https://casetext.com/case/brandt-v-nvidia-corp-in-re-3dfx-interacti
+ve), 585 F. App'x 626 (9th Cir. 2014).
+
+69. "Nvidia's new graphics cards are a big deal" (https://www.theverge.com/circuitbreaker/2016/
+5/7/11615806/nvidia-gtx-1080-1070-pascal-specs-price-release-date). The Verge. May 7,
+2016. Archived (https://web.archive.org/web/20201108111404/http://www.theverge.com/circ
+uitbreaker/2016/5/7/11615806/nvidia-gtx-1080-1070-pascal-specs-price-release-date) from
+the original on November 8, 2020. Retrieved May 26, 2017.
+
+70. Mark Walton (May 7, 2016). "Nvidia's GTX 1080 and GTX 1070 revealed: Faster than Titan
+X at half the price" (https://arstechnica.com/gadgets/2016/05/nvidia-gtx-1080-1070-pascal-s
+pecs-pricing-revealed/). Ars Technica. Archived (https://web.archive.org/web/202101231223
+32/https://arstechnica.com/gadgets/2016/05/nvidia-gtx-1080-1070-pascal-specs-pricing-reve
+aled/) from the original on January 23, 2021. Retrieved June 14, 2017.
+
+
+
+71. Joel Hruska (May 10, 2016). "Nvidia's Ansel, VR Funhouse apps will enhance screenshots,
+showcase company's VR technology" (http://www.extremetech.com/gaming/228100-nvidias-
+ansel-vr-funhouse-apps-will-enhance-screenshots-showcase-companys-vr-technology).
+ExtremeTech. Archived (https://web.archive.org/web/20201128225929/https://www.extremet
+ech.com/gaming/228100-nvidias-ansel-vr-funhouse-apps-will-enhance-screenshots-showca
+se-companys-vr-technology) from the original on November 28, 2020. Retrieved May 12,
+2016.
+
+72. Crider, Michael (October 5, 2017). "What Are NVIDIA MAX-Q Laptops?" (https://www.howto
+geek.com/327019/what-is-nvidia-max-q/). How-To Geek. Archived (https://web.archive.org/w
+eb/20201128030447/https://www.howtogeek.com/327019/what-is-nvidia-max-q/) from the
+original on November 28, 2020. Retrieved December 18, 2017.
+
+73. Smith, Ryan. "Update: NVIDIA GeForce GTX 970 Settlement Claims Website Now Open" (h
+ttps://web.archive.org/web/20201112002256/https://www.anandtech.com/show/10532/nvidia
+-gtx-970-settlement-claims). Anandtech. Purch, Inc. Archived from the original (http://www.a
+nandtech.com/show/10532/nvidia-gtx-970-settlement-claims) on November 12, 2020.
+Retrieved November 15, 2016.
+
+74. Alexandria Sage (May 10, 2017). "Nvidia says Toyota will use its AI technology for self-
+driving cars" (https://www.reuters.com/article/us-nvidia-toyota-self-driving-idUSKBN1862M
+5). Reuters. Archived (https://web.archive.org/web/20201112031928/https://www.reuters.co
+m/article/us-nvidia-toyota-self-driving-idUSKBN1862M5) from the original on November 12,
+2020. Retrieved July 2, 2017.
+
+75. Vena, Danny (July 7, 2017). "NVIDIA and Baidu Join Forces in Far-Reaching AI Partnership"
+(https://www.fool.com/investing/2017/07/07/nvidia-and-baidu-join-forces-in-far-reaching-ai-p
+a.aspx). The Motley Fool. Archived (https://web.archive.org/web/20201127002134/https://w
+ww.fool.com/investing/2017/07/07/nvidia-and-baidu-join-forces-in-far-reaching-ai-pa.aspx)
+from the original on November 27, 2020. Retrieved July 9, 2017.
+
+76. "NVIDIA TITAN V Transforms the PC into AI Supercomputer" (https://nvidianews.nvidia.com/
+news/nvidia-titan-v-transforms-the-pc-into-ai-supercomputer). NVIDIA Newsroom.
+December 7, 2017. Archived (https://web.archive.org/web/20201109014017/https://nvidiane
+ws.nvidia.com/news/nvidia-titan-v-transforms-the-pc-into-ai-supercomputer) from the
+original on November 9, 2020. Retrieved December 8, 2017.
+
+77. "The World's Most Powerful Graphics Card | NVIDIA TITAN V" (https://web.archive.org/web/
+20201112220854/https://www.nvidia.com/en-us/titan/titan-v/). NVIDIA. Archived from the
+original (https://www.nvidia.com/en-us/titan/titan-v/) on November 12, 2020. Retrieved
+December 8, 2017.
+
+78. "News Archive" (http://nvidianews.nvidia.com/news). NVIDIA Newsroom. Archived (https://w
+eb.archive.org/web/20210421043716/https://nvidianews.nvidia.com/news) from the original
+on April 21, 2021. Retrieved April 26, 2021.
+
+79. "Google Cloud gets support for Nvidia's Tesla P4 inferencing accelerators" (https://techcrunc
+h.com/2018/08/06/google-cloud-gets-support-for-nvidias-tesla-p4-inferencing-accelerators/).
+Tech Crunch. August 6, 2018. Archived (https://web.archive.org/web/20201128231831/http
+s://techcrunch.com/2018/08/06/google-cloud-gets-support-for-nvidias-tesla-p4-inferencing-a
+ccelerators/) from the original on November 28, 2020. Retrieved August 30, 2018.
+
+80. May 10, 2018. 'When will the Nvidia Web Drivers be released for macOS Mojave 10.14' (htt
+ps://devtalk.nvidia.com/default/topic/1042520/drivers/-when-will-the-nvidia-web-drivers-be-re
+leased-for-macos-mojave-10-14-/) Archived (https://web.archive.org/web/20210403000809/
+https://forums.developer.nvidia.com/t/when-will-the-nvidia-web-drivers-be-released-for-maco
+s-mojave-10-14/65895) April 3, 2021, at the Wayback Machine. Nvidia
+
+81. Upgrade to macOS Mojave. (https://www.apple.com/macos/how-to-upgrade/#hardware-requ
+irements) Archived (https://web.archive.org/web/20160927013442/https://www.apple.com/m
+acos/how-to-upgrade/#hardware-requirements) September 27, 2016, at the Wayback
+Machine Apple Computer
+
+
+
+82. Install macOS 10.14 Mojave on Mac Pro (mid 2010) and Mac Pro (mid 2012) (https://suppor
+t.apple.com/en-gb/HT208898#cards) Archived (https://web.archive.org/web/2020113012424
+0/https://support.apple.com/en-gb/HT208898#cards) November 30, 2020, at the Wayback
+Machine. Apple Computer
+
+83. September 28, 2018. CUDA 10 and macOS 10.14 (https://devtalk.nvidia.com/default/topic/1
+042279/cuda-setup-and-installation/cuda-10-and-macos-10-14/post/5286813/#5286813)
+Archived (https://web.archive.org/web/20210123121922/https://forums.developer.nvidia.co
+m/t/cuda-10-and-macos-10-14/65672#5286813) January 23, 2021, at the Wayback
+Machine. Nvidia
+
+84. October 18, 2018. FAQ about MacOS 10.14 (Mojave) NVIDIA drivers (https://devtalk.nvidia.
+com/default/topic/1043070/announcements/faq-about-macos-10-14-mojave-nvidia-drivers/)
+Archived (https://web.archive.org/web/20200304172221/https://devtalk.nvidia.com/default/to
+pic/1043070/announcements/faq-about-macos-10-14-mojave-nvidia-drivers/) March 4,
+2020, at the Wayback Machine
+
+85. Florian Maislinger. January 22, 2019. 'Apple and Nvidia are said to have a silent hostility' (htt
+ps://www.pcbuildersclub.com/en/2019/01/apple-and-nvidia-are-said-to-have-a-silent-hostilit
+y/) Archived (https://web.archive.org/web/20200929141524/https://www.pcbuildersclub.com/
+en/2019/01/apple-and-nvidia-are-said-to-have-a-silent-hostility/) September 29, 2020, at the
+Wayback Machine. PC Builders Club.
+
+86. William Gallagher and Mike Wuerthele. January 18, 2019. 'Apple's management doesn't
+want Nvidia support in macOS, and that's a bad sign for the Mac Pro' (https://appleinsider.co
+m/articles/19/01/18/apples-management-doesnt-want-nvidia-support-in-macos-and-thats-a-
+bad-sign-for-the-mac-pro) Archived (https://web.archive.org/web/20201112042648/https://ap
+pleinsider.com/articles/19/01/18/apples-management-doesnt-want-nvidia-support-in-macos-
+and-thats-a-bad-sign-for-the-mac-pro/) November 12, 2020, at the Wayback Machine
+
+87. Vadim Yuryev. February 14, 2019. Video: Nvidia support was abandoned in macOS Mojave,
+and here's why (https://appleinsider.com/articles/19/02/14/video-nvidia-support-was-abando
+ned-in-macos-mojave-and-heres-why) Archived (https://web.archive.org/web/202101141546
+49/https://appleinsider.com/articles/19/02/14/video-nvidia-support-was-abandoned-in-macos
+-mojave-and-heres-why) January 14, 2021, at the Wayback Machine. Apple Insider
+
+88. Daniel Eran Dilger. April 4, 2017. 'Why Apple's new GPU efforts are a major disruptive threat
+to Nvidia' (https://appleinsider.com/articles/17/04/04/why-apples-new-gpu-efforts-are-a-majo
+r-disruptive-threat-to-nvidia) Archived (https://web.archive.org/web/20201127092202/https://
+appleinsider.com/articles/17/04/04/why-apples-new-gpu-efforts-are-a-major-disruptive-threat
+-to-nvidia) November 27, 2020, at the Wayback Machine. Apple Insider
+
+89. 'Install macOS 10.14 Mojave on Mac Pro (mid 2010) and Mac Pro (mid 2012)' (https://suppo
+rt.apple.com/en-us/HT208898) Archived (https://web.archive.org/web/20201112022658/http
+s://support.apple.com/en-us/HT208898) November 12, 2020, at the Wayback Machine
+Apple Inc.
+
+90. "Nvidia to acquire Mellanox Technologies for about $7 billion in cash" (https://www.cnbc.co
+m/2019/03/11/nvidia-to-acquire-mellanox-technologies-for-about-7-billion-in-cash.html).
+www.cnbc.com. March 11, 2019. Archived (https://web.archive.org/web/20201108031917/htt
+ps://www.cnbc.com/2019/03/11/nvidia-to-acquire-mellanox-technologies-for-about-7-billion-i
+n-cash.html) from the original on November 8, 2020. Retrieved March 11, 2019.
+
+91. Byford, Sam (May 27, 2019). "Nvidia announces RTX Studio laptops aimed at creators" (htt
+ps://www.theverge.com/2019/5/27/18641152/nvidia-rtx-studio-laptops-creators-software-co
+mputex-2019). The Verge. Archived (https://web.archive.org/web/20210116225311/https://w
+ww.theverge.com/2019/5/27/18641152/nvidia-rtx-studio-laptops-creators-software-computex
+-2019/) from the original on January 16, 2021. Retrieved May 27, 2019.
+
+
+
+92. "Minecraft with RTX: The World's Best Selling Videogame Is Adding Ray Tracing" (https://w
+ww.nvidia.com/en-us/geforce/news/minecraft-rtx-trailer-screenshots-partnership/).
+www.nvidia.com. Archived (https://web.archive.org/web/20201213140636/https://www.nvidi
+a.com/en-us/geforce/news/minecraft-rtx-trailer-screenshots-partnership/) from the original
+on December 13, 2020. Retrieved April 25, 2020.
+
+93. "Nvidia acquires Cumulus Networks" (https://techcrunch.com/2020/05/04/nvidia-acquires-cu
+mulus-networks/). Techcrunch. May 4, 2020. Archived (https://web.archive.org/web/2023120
+2232648/https://techcrunch.com/2020/05/04/nvidia-acquires-cumulus-networks/) from the
+original on December 2, 2023. Retrieved December 10, 2020.
+
+94. "NVIDIA's top scientist develops open-source ventilator that can be built with $400 in
+readily-available parts" (https://techcrunch.com/2020/05/01/nvidias-top-scientist-develops-o
+pen-source-ventilator-that-can-be-built-with-400-in-readily-available-parts/). TechCrunch.
+May 2020. Archived (https://web.archive.org/web/20210403000745/https://techcrunch.com/2
+020/05/01/nvidias-top-scientist-develops-open-source-ventilator-that-can-be-built-with-400-i
+n-readily-available-parts/) from the original on April 3, 2021. Retrieved May 1, 2020.
+
+95. "NVIDIA's New Ampere Data Center GPU in Full Production" (https://nvidianews.nvidia.com/
+news/nvidias-new-ampere-data-center-gpu-in-full-production). NVIDIA Newsroom. Archived
+(https://web.archive.org/web/20240317085025/https://nvidianews.nvidia.com/news/nvidias-n
+ew-ampere-data-center-gpu-in-full-production) from the original on March 17, 2024.
+Retrieved March 3, 2024.
+
+96. "NVIDIA A100 GPUs Power the Modern Data Center" (https://www.nvidia.com/en-us/data-ce
+nter/a100/). NVIDIA. Archived (https://web.archive.org/web/20210116101004/https://www.nv
+idia.com/en-us/data-center/a100/) from the original on January 16, 2021. Retrieved May 15,
+2020.
+
+97. Massoudi, Arash; Bradshaw, Tim; Fontanella-Khan, James (July 31, 2020). "Nvidia in talks
+to buy Arm from SoftBank for more than $32bn" (https://ghostarchive.org/archive/20221210/
+https://www.ft.com/content/4ed67726-1a56-4ce2-9d62-a5ec2a8f35b5). Financial Times.
+Archived from the original (https://www.ft.com/content/4ed67726-1a56-4ce2-9d62-a5ec2a8f
+35b5) on December 10, 2022. Retrieved July 3, 2020.
+
+98. "NVIDIA Delivers Greatest-Ever Generational Leap with GeForce RTX 30 Series GPUs" (htt
+ps://nvidianews.nvidia.com/news/nvidia-delivers-greatest-ever-generational-leap-in-perform
+ance-with-geforce-rtx-30-series-gpus) (Press release). NVIDIA. September 1, 2020.
+Archived (https://web.archive.org/web/20230307043052/https://nvidianews.nvidia.com/new
+s/nvidia-delivers-greatest-ever-generational-leap-in-performance-with-geforce-rtx-30-series-
+gpus) from the original on March 7, 2023. Retrieved August 5, 2021.
+
+99. "GeForce RTX 30 Series Graphics Cards: The Ultimate Play" (https://www.nvidia.com/en-u
+s/geforce/news/introducing-rtx-30-series-graphics-cards/). NVIDIA. September 1, 2020.
+Archived (https://web.archive.org/web/20210119111623/https://www.nvidia.com/en-us/gefor
+ce/news/introducing-rtx-30-series-graphics-cards/) from the original on January 19, 2021.
+Retrieved August 5, 2021.
+
+100. Moorhead, Patrick. "It's Official- NVIDIA Acquires Arm For $40B To Create What Could Be A
+Computing Juggernaut" (https://www.forbes.com/sites/patrickmoorhead/2020/09/13/its-offici
+alnvidia-acquires-arm-for-40b-to-create-what-could-be-a-computing-juggernaut/). Forbes.
+Archived (https://web.archive.org/web/20210203191926/https://www.forbes.com/sites/patric
+kmoorhead/2020/09/13/its-officialnvidia-acquires-arm-for-40b-to-create-what-could-be-a-co
+mputing-juggernaut/) from the original on February 3, 2021. Retrieved September 14, 2020.
+
+101. Rosoff, Matt (September 13, 2020). "Nvidia to buy Arm Holdings from SoftBank for $40
+billion" (https://www.cnbc.com/2020/09/14/nvidia-to-buy-arm-holdings-from-softbank-for-40-
+billion.html). CNBC. Archived (https://web.archive.org/web/20210116110046/https://www.cn
+bc.com/2020/09/14/nvidia-to-buy-arm-holdings-from-softbank-for-40-billion.html) from the
+original on January 16, 2021. Retrieved September 13, 2020.
+
+
+
+102. Arash Massoudi; Robert Smith; James Fontanella-Khan (September 12, 2020). "SoftBank
+set to sell UK's Arm Holdings to Nvidia for $40bn" (https://ghostarchive.org/archive/2022121
+0/https://www.ft.com/content/6bfe40a5-2426-4743-98cd-6fed9dd01b98). Financial Times.
+Archived from the original (https://www.ft.com/content/6bfe40a5-2426-4743-98cd-6fed9dd01
+b98) on December 10, 2022. Retrieved September 12, 2020.
+
+103. "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for
+the Age of AI" (https://nvidianews.nvidia.com/news/nvidia-to-acquire-arm-for-40-billion-creati
+ng-worlds-premier-computing-company-for-the-age-of-ai). NVIDIA (Press release).
+September 13, 2020. Archived (https://web.archive.org/web/20200914001340/https://nvidian
+ews.nvidia.com/news/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing
+-company-for-the-age-of-ai) from the original on September 14, 2020. Retrieved
+November 21, 2020.
+
+104. "NVIDIA Launches UK's Most Powerful Supercomputer, for Research in AI and Healthcare"
+(https://nvidianews.nvidia.com/news/nvidia-launches-uks-most-powerful-supercomputer-for-
+research-in-ai-and-healthcare). nvidia.com. Archived (https://web.archive.org/web/20231220
+145313/https://nvidianews.nvidia.com/news/nvidia-launches-uks-most-powerful-supercompu
+ter-for-research-in-ai-and-healthcare) from the original on December 20, 2023. Retrieved
+December 20, 2023.
+
+105. Grover, Natalie (July 6, 2021). "UK supercomputer Cambridge-1 to hunt for medical
+breakthroughs" (https://www.theguardian.com/technology/2021/jul/07/uk-supercomputer-ca
+mbridge-1-to-hunt-for-medical-breakthroughs). The Guardian. Archived (https://web.archive.
+org/web/20231220145311/https://www.theguardian.com/technology/2021/jul/07/uk-superco
+mputer-cambridge-1-to-hunt-for-medical-breakthroughs) from the original on December 20,
+2023. Retrieved December 20, 2023.
+
+106. Sam Shead (October 5, 2020). "Nvidia pledges to build Britain's largest supercomputer
+following $40 billion bid for Arm" (https://www.cnbc.com/2020/10/05/nvidia-pledges-to-build-
+britains-largest-supercomputer.html). CNBC. Archived (https://web.archive.org/web/2021011
+7113400/https://www.cnbc.com/2020/10/05/nvidia-pledges-to-build-britains-largest-superco
+mputer.html) from the original on January 17, 2021. Retrieved October 5, 2020.
+
+107. Smith, Ryan. "Quadro No More? NVIDIA Announces Ampere-based RTX A6000 & A40
+Video Cards For Pro Visualization" (https://web.archive.org/web/20201005134015/https://w
+ww.anandtech.com/show/16137/nvidia-announces-ampere-rtx-a6000-a40-cards-for-pro-viz).
+www.anandtech.com. Archived from the original (https://www.anandtech.com/show/16137/n
+vidia-announces-ampere-rtx-a6000-a40-cards-for-pro-viz) on October 5, 2020. Retrieved
+March 10, 2021.
+
+108. Browne, Ryan (August 20, 2021). "Nvidia's $40 billion Arm takeover warrants an in-depth
+competition probe, UK regulator says" (https://www.cnbc.com/2021/08/20/nvidia-arm-deal-w
+arrants-in-depth-competition-probe-uk-regulator-says.html). CNBC. Archived (https://web.ar
+chive.org/web/20210820152448/https://www.cnbc.com/2021/08/20/nvidia-arm-deal-warrants
+-in-depth-competition-probe-uk-regulator-says.html) from the original on August 20, 2021.
+Retrieved August 20, 2021.
+
+109. Wall, Robert (February 8, 2022). "Nvidia, SoftBank Call Off Blockbuster Arm Deal" (https://w
+ww.wsj.com/articles/nvidia-softbank-call-off-blockbuster-arm-deal-11644297283). The Wall
+Street Journal. Archived (https://web.archive.org/web/20220208212810/https://www.wsj.co
+m/articles/nvidia-softbank-call-off-blockbuster-arm-deal-11644297283) from the original on
+February 8, 2022. Retrieved February 8, 2022.
+
+110. Porter, Jon; Clark, Mitchell (October 27, 2021). "EU opens formal investigation into Nvidia's
+Arm acquisition" (https://www.theverge.com/2021/10/27/22266504/nvidia-arm-deal-eu-forma
+l-investigation-merger). The Verge. Archived (https://web.archive.org/web/20211028130151/
+https://www.theverge.com/2021/10/27/22266504/nvidia-arm-deal-eu-formal-investigation-me
+rger) from the original on October 28, 2021. Retrieved October 28, 2021.
+
+
+
+111. Chee, Foo Yun (October 27, 2021). "Setback for Nvidia's $54 bln ARM bid as EU regulators
+open probe" (https://www.reuters.com/technology/setback-nvidias-54-bln-arm-bid-eu-regulat
+ors-open-probe-2021-10-27/). Reuters. Archived (https://web.archive.org/web/20211028130
+151/https://www.reuters.com/technology/setback-nvidias-54-bln-arm-bid-eu-regulators-open
+-probe-2021-10-27/) from the original on October 28, 2021. Retrieved October 28, 2021.
+
+112. Titcomb, James (February 25, 2022). "US microchip powerhouse Nvidia hit by cyber attack"
+(https://www.telegraph.co.uk/business/2022/02/25/us-microchip-powerhouse-nvidia-hit-cybe
+r-attack/). The Telegraph. ISSN 0307-1235 (https://search.worldcat.org/issn/0307-1235).
+Archived (https://web.archive.org/web/20220225191134/https://www.telegraph.co.uk/busine
+ss/2022/02/25/us-microchip-powerhouse-nvidia-hit-cyber-attack/) from the original on
+February 25, 2022. Retrieved February 25, 2022.
+
+113. "Nvidia Considering Intel as a Foundry to Manufacture its GPUs" (https://gamingindustry24
+7.com/nvidia-considering-intel-as-a-foundry-to-manufacture-its-gpus/). February 24, 2022.
+Archived (https://web.archive.org/web/20220809132902/https://gamingindustry247.com/nvid
+ia-considering-intel-as-a-foundry-to-manufacture-its-gpus/) from the original on August 9,
+2022. Retrieved February 24, 2022.
+
+114. "Tech Giant NVIDIA to Open Research Center in Armenia" (https://asbarez.com/tech-giant-n
+vidia-to-open-research-center-in-armenia/). Asbarez. April 7, 2022. Archived (https://web.arc
+hive.org/web/20220407233902/https://asbarez.com/tech-giant-nvidia-to-open-research-cent
+er-in-armenia/) from the original on April 7, 2022. Retrieved April 7, 2022.
+
+115. Shankland, Stephen (May 5, 2022). "Behold Nvidia's Giant New Voyager Building" (https://w
+ww.cnet.com/pictures/behold-nvidias-giant-new-voyager-building/). CNET. Archived (https://
+web.archive.org/web/20240224162056/https://www.cnet.com/pictures/behold-nvidias-giant-
+new-voyager-building/) from the original on February 24, 2024. Retrieved February 24,
+2024.
+
+116. Thompson, Polly (November 19, 2023). "See inside Nvidia's giant 'Voyager' HQ — a
+futuristic office where work meets nature" (https://www.businessinsider.com/nvidia-chipmake
+r-ai-boom-tech-office-california-2023-11). Business Insider. Archived (https://web.archive.or
+g/web/20240303033422/https://www.businessinsider.com/nvidia-chipmaker-ai-boom-tech-off
+ice-california-2023-11) from the original on March 3, 2024. Retrieved February 24, 2024.
+
+117. Holt, Kris (September 20, 2022). "NVIDIA reveals its next-gen chipset for autonomous
+vehicles" (https://www.engadget.com/nvidia-autonomous-vehicle-chipset-drive-thor-1645389
+11.html). Engadget. Archived (https://web.archive.org/web/20221108035725/https://www.en
+gadget.com/nvidia-autonomous-vehicle-chipset-drive-thor-164538911.html) from the original
+on November 8, 2022. Retrieved November 8, 2022.
+
+118. CORPORATION, NVIDIA (September 20, 2022). "NVIDIA Unveils DRIVE Thor —
+Centralized Car Computer Unifying Cluster, Infotainment, Automated Driving, and Parking in
+a Single, Cost-Saving System" (https://www.globenewswire.com/news-release/2022/09/20/2
+519504/0/en/NVIDIA-Unveils-DRIVE-Thor-Centralized-Car-Computer-Unifying-Cluster-Infot
+ainment-Automated-Driving-and-Parking-in-a-Single-Cost-Saving-System.html).
+GlobeNewswire News Room (Press release). Archived (https://web.archive.org/web/202209
+20174224/https://www.globenewswire.com/news-release/2022/09/20/2519504/0/en/NVIDIA-
+Unveils-DRIVE-Thor-Centralized-Car-Computer-Unifying-Cluster-Infotainment-Automated-D
+riving-and-Parking-in-a-Single-Cost-Saving-System.html) from the original on September
+20, 2022. Retrieved September 20, 2022.
+
+119. "The Broad Institute and NVIDIA Bring NVIDIA Clara to Terra Cloud Platform Serving 25,000
+Researchers Advancing Biomedical Discovery" (http://nvidianews.nvidia.com/news/the-broa
+d-institute-and-nvidia-bring-nvidia-clara-to-terra-cloud-platform-serving-25-000-researchers-
+advancing-biomedical-discovery). NVIDIA Newsroom. Retrieved July 11, 2024.
+
+
+
+120. Lee, Jane Lanhee (November 7, 2022). "Exclusive: Nvidia offers new advanced chip for
+China that meets U.S. export controls" (https://www.reuters.com/technology/exclusive-nvidia
+-offers-new-advanced-chip-china-that-meets-us-export-controls-2022-11-08/). Reuters.
+Archived (https://web.archive.org/web/20221108035434/https://www.reuters.com/technolog
+y/exclusive-nvidia-offers-new-advanced-chip-china-that-meets-us-export-controls-2022-11-0
+8/) from the original on November 8, 2022. Retrieved November 8, 2022.
+
+121. Emilia David (September 25, 2023). "Getty made an AI generator that only trained on its
+licensed images" (https://www.theverge.com/2023/9/25/23884679/getty-ai-generative-image
+-platform-launch). Verge. Archived (https://web.archive.org/web/20230926213950/https://ww
+w.theverge.com/2023/9/25/23884679/getty-ai-generative-image-platform-launch) from the
+original on September 26, 2023. Retrieved September 26, 2023.
+
+122. Takahashi, Dean (September 26, 2023). "Jensen Huang returns to Denny's where trillion-
+dollar company began" (https://venturebeat.com/games/jensen-huang-returns-to-dennys-wh
+ere-trillion-dollar-company-began/). VentureBeat. Archived (https://web.archive.org/web/202
+30928033322/https://venturebeat.com/games/jensen-huang-returns-to-dennys-where-trillion
+-dollar-company-began/) from the original on September 28, 2023. Retrieved September 28,
+2023.
+
+123. Fitch, Asa (February 26, 2024). "Nvidia's Stunning Ascent Has Also Made It a Giant Target"
+(https://www.wsj.com/tech/ai/nvidia-ceo-jensen-huang-vision-company-f05db212). The Wall
+Street Journal. Archived (https://web.archive.org/web/20240227063751/https://www.wsj.co
+m/tech/ai/nvidia-ceo-jensen-huang-vision-company-f05db212) from the original on February
+27, 2024. Retrieved February 27, 2024.
+
+124. Nellis, Stephen; Cherney, Max A. (October 24, 2023). "Exclusive: Nvidia to make Arm-based
+PC chips in major new challenge to Intel" (https://www.reuters.com/technology/nvidia-make-
+arm-based-pc-chips-major-new-challenge-intel-2023-10-23/). Reuters. Archived (https://we
+b.archive.org/web/20231024130802/https://www.reuters.com/technology/nvidia-make-arm-b
+ased-PC-chips-major-new-challenge-intel-2023-10-23/) from the original on October 24,
+2023. Retrieved October 24, 2023.
+
+125. Nieva, Richard (January 11, 2024). "Nvidia Is Quietly Ramping Up For A Delicate Dance In
+Washington" (https://www.forbes.com/sites/richardnieva/2024/01/11/nvidia-is-quietly-rampin
+g-up-for-a-delicate-dance-in-washington/). Forbes. Retrieved May 12, 2024.
+
+126. Vanian, Jonathan (January 18, 2024). "Mark Zuckerberg indicates Meta is spending billions
+of dollars on Nvidia AI chips" (https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-
+meta-is-spending-billions-on-nvidia-ai-chips.html). CNBC. Retrieved June 6, 2024.
+
+127. Bindley, Katherine; Ellis, Lindsay; Bousquette, Isabelle (February 26, 2024). "Booming Stock
+and Sky-High Pay: Nvidia Is Silicon Valley's Hot Employer" (https://www.wsj.com/lifestyle/car
+eers/booming-stock-and-sky-high-pay-nvidia-is-silicon-valleys-hot-employer-e4fb6c20). The
+Wall Street Journal. Archived (https://web.archive.org/web/20240227001206/https://www.ws
+j.com/lifestyle/careers/booming-stock-and-sky-high-pay-nvidia-is-silicon-valleys-hot-employe
+r-e4fb6c20) from the original on February 27, 2024. Retrieved February 27, 2024.
+
+128. Bousquette, Isabelle; Lin, Belle (February 14, 2024). "Armored Cars and Trillion Dollar Price
+Tags: How Some Tech Leaders Want to Solve the Chip Shortage" (https://www.wsj.com/artic
+les/armored-cars-and-trillion-dollar-price-tags-how-some-tech-leaders-want-to-solve-the-chi
+p-shortage-d7c75039). The Wall Street Journal. Retrieved May 30, 2024.
+
+129. Weiss, Geoff (March 19, 2024). "Nvidia's CEO unveils the next AI chip that tech companies
+will be scrambling for — meet 'Blackwell' " (https://www.businessinsider.com/nvidia-ceo-jens
+en-huang-unveils-next-generation-ai-chip-blackwell-2024-3). Business Insider. Archived (htt
+ps://web.archive.org/web/20240319001932/https://www.businessinsider.com/nvidia-ceo-jens
+en-huang-unveils-next-generation-ai-chip-blackwell-2024-3) from the original on March 19,
+2024. Retrieved March 19, 2024.
+
+
+
+130. Baptista, Eduardo (April 23, 2024). "China acquired recently banned Nvidia chips in Super
+Micro, Dell servers, tenders show" (https://www.reuters.com/world/china/china-acquired-rec
+ently-banned-nvidia-chips-super-micro-dell-servers-tenders-2024-04-23/). Reuters. Archived
+(https://web.archive.org/web/20240424220448/https://www.reuters.com/world/china/china-a
+cquired-recently-banned-nvidia-chips-super-micro-dell-servers-tenders-2024-04-23/) from
+the original on April 24, 2024. Retrieved April 23, 2024.
+
+131. "U.S. regulators to open antitrust probes into Nvidia, Microsoft and OpenAI" (https://web.arc
+hive.org/web/20240609033901/https://www.cnbc.com/2024/06/06/us-regulators-to-open-anti
+trust-probes-into-nvidia-microsoft-and-openai.html). June 6, 2024. Archived from the original
+(https://www.cnbc.com/2024/06/06/us-regulators-to-open-antitrust-probes-into-nvidia-micros
+oft-and-openai.html) on June 9, 2024. Retrieved June 9, 2024.
+
+132. Patnaik, Subrat; Reinicke, Carmen (June 18, 2024). "Nvidia Becomes World's Most
+Valuable Company as AI Rally Steams Ahead" (https://www.bloomberg.com/news/articles/2
+024-06-18/nvidia-becomes-world-s-largest-firm-as-ai-rally-steams-ahead?srnd=homepage-a
+mericas&sref=CIpmV6x8). Bloomberg. Retrieved June 18, 2024.
+
+133. Prakash, Prarthana (June 21, 2024). "Nvidia single-handedly surpasses Europe's biggest
+stock markets as London Stock Exchange chief promises reform to refresh U.K.'s
+'ambition' " (https://fortune.com/europe/2024/06/21/nvidia-surpasses-europes-biggest-stock-
+markets-london-stock-exchange-reform-u-k-ambition/). Fortune.
+
+134. McCann, Kristian (June 3, 2024). "How Nvidia's AI Chips will Power Trend Micro's
+Cybersecurity" (https://aimagazine.com/articles/how-nvidias-ai-chips-will-power-trend-micros
+-cybersecurity). AI magazine. Retrieved September 19, 2024.
+
+135. Nunez, Michael (October 1, 2024). "Nvidia just dropped a bombshell: Its new AI model is
+open, massive, and ready to rival GPT-4" (https://venturebeat.com/ai/nvidia-just-dropped-a-
+bombshell-its-new-ai-model-is-open-massive-and-ready-to-rival-gpt-4/). VentureBeat.
+
+136. Basu, Swati (October 2, 2024). "Nvidia unveils its new NVLM 1.0 AI model, rivaling the likes
+of OpenAI's GPT-4" (https://readwrite.com/nvidia-unveils-nvlm-1-0-ai-model/). ReadWrite.
+
+137. Bajwa, Arsheeya (November 1, 2024). "Nvidia to take Intel's spot on Dow Jones Industrial
+Average" (https://www.reuters.com/technology/nvidia-replace-intel-dow-jones-industrial-aver
+age-2024-11-01). Reuters. Retrieved November 3, 2024.
+
+138. Leswing, Kif (November 1, 2024). "Nvidia to join Dow Jones Industrial Average, replacing
+rival chipmaker Intel" (https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-
+average-replacing-intel.html). CNBC. Retrieved November 3, 2024.
+
+139. Kahn, Jeremy (November 12, 2024). "60 direct reports, but no 1-on-1 meetings: How an
+unconventional leadership style helped Jensen Huang of Nvidia become one of the most
+powerful people in business" (https://fortune.com/2024/11/12/jensen-huang-nvidia-ceo-lead
+ership-mpp/). Fortune. Retrieved November 16, 2024.
+
+140. Singh, Jaspreet (February 15, 2025). "Nvidia cuts stake in Arm Holdings, discloses position
+in China's WeRide" (https://www.reuters.com/technology/nvidia-cuts-stake-arm-holdings-inv
+ests-chinas-weride-2025-02-14/). Reuters.
+
+141. "Fortune 100 Best Companies to Work For" (https://fortune.com/ranking/best-companies/20
+24/). Fortune. Archived (https://web.archive.org/web/20250119102931/https://fortune.com/ra
+nking/best-companies/2024/) from the original on January 19, 2025.
+
+142. Quiros-Gutierrez, Marco (January 7, 2025). "Nvidia's value is now worth more than AMD,
+Arm, Broadcom, and Intel combined—and doubled" (https://fortune.com/2025/01/07/nvidia-
+market-cap-more-than-amd-broadcom-amd-intel-combined-doubled/). Fortune.
+
+143. Allen, Gregory C. (March 7, 2025). "DeepSeek, Huawei, Export Controls, and the Future of
+the U.S.-China AI Race" (https://www.csis.org/analysis/deepseek-huawei-export-controls-an
+d-future-us-china-ai-race). Center for Strategic and International Studies.
+
+144. Subin, Samantha (January 27, 2025). "Nvidia sheds almost $600 billion in market cap,
+biggest one-day loss in U.S. history" (https://www.cnbc.com/2025/01/27/nvidia-sheds-almost
+-600-billion-in-market-cap-biggest-drop-ever.html). CNBC. Retrieved January 28, 2025.
+
+
+
+145. Saul, Derek. "Biggest Market Loss In History: Nvidia Stock Sheds Nearly $600 Billion As
+DeepSeek Shakes AI Darling" (https://www.forbes.com/sites/dereksaul/2025/01/27/biggest-
+market-loss-in-history-nvidia-stock-sheds-nearly-600-billion-as-deepseek-shakes-ai-darlin
+g/). Forbes. Retrieved January 28, 2025.
+
+146. Franzen, Carl (April 8, 2025). "Nvidia's new Llama-3.1 Nemotron Ultra outperforms
+DeepSeek R1 at half the size" (https://venturebeat.com/ai/nvidias-new-llama-3-1-nemotron-
+ultra-outperforms-deepseek-r1-at-half-the-size/). VentureBeat. Retrieved April 13, 2025.
+
+147. Bajwa, Arsheeya; Nellis, Stephen (May 28, 2025). "Nvidia shares rise as sales hit from
+China export curbs not as bad as feared" (https://www.reuters.com/business/nvidia-forecast
+s-second-quarter-revenue-below-estimates-2025-05-28/). Reuters. Retrieved May 29, 2025.
+
+148. Hemmadi, Murad (July 4, 2025). "Nvidia's deal to buy Canadian AI startup CentML could top
+US$400M" (https://thelogic.co/news/exclusive/nvidias-deal-centml-us400m/). The Logic.
+Retrieved July 5, 2025.
+
+149. Randewich, Noel (July 10, 2025). "Nvidia's market value tops $4 trillion" (https://www.reuter
+s.com/business/nvidia-notches-4-trillion-record-close-market-cap-2025-07-10/). Reuters.
+Retrieved July 12, 2025.
+
+150. Mickle, Tripp (July 10, 2025). "Nvidia Becomes First Public Company Worth $4 Trillion" (http
+s://www.nytimes.com/2025/07/10/technology/nvidia-4-trillion-market-value.html). The New
+York Times. Retrieved July 12, 2025.
+
+151. "Nvidia orders 300,000 H20 chips from TSMC due to robust China demand, sources say" (ht
+tps://www.reuters.com/world/china/nvidia-orders-300000-h20-chips-tsmc-due-robust-china-d
+emand-sources-say-2025-07-29/). Reuters. July 29, 2025. Retrieved August 1, 2025.
+
+152. "Client Challenge" (https://www.ft.com/content/cd1a0729-a8ab-41e1-a4d2-8907f4c01cac).
+www.ft.com. Retrieved August 12, 2025.
+
+153. "Nvidia and AMD to pay 15% of China chip sales to US government" (https://www.bbc.com/
+news/articles/cvgvvnx8y19o). www.bbc.com. August 11, 2025. Retrieved August 13, 2025.
+
+154. "2023 NVIDIA Corporation Annual Review" (https://web.archive.org/web/20240302063445/h
+ttps://s201.q4cdn.com/141608511/files/doc_financials/2023/ar/2023-Annual-Report-1.pdf)
+(PDF). Nvidia. p. 8. Archived from the original (https://s201.q4cdn.com/141608511/files/doc_
+financials/2023/ar/2023-Annual-Report-1.pdf) (PDF) on March 2, 2024.
+
+155. "Nvidia Value Chain Analysis" (https://research-methodology.net/nvidia-value-chain-analysi
+s/). Research-Methodology. June 22, 2023. Archived (https://web.archive.org/web/20240303
+170230/https://research-methodology.net/nvidia-value-chain-analysis/) from the original on
+March 3, 2024. Retrieved March 3, 2024.
+
+156. "NVIDIA Corporation: Shareholders Board Members Managers and Company Profile |
+US67066G1040 | MarketScreener" (https://www.marketscreener.com/quote/stock/NVIDIA-C
+ORPORATION-57355629/company/). www.marketscreener.com. Archived (https://web.archi
+ve.org/web/20230703081612/https://www.marketscreener.com/quote/stock/NVIDIA-CORPO
+RATION-57355629/company/) from the original on July 3, 2023. Retrieved March 7, 2024.
+
+157. "NVIDIA Corporation – Governance – Management Team" (https://investor.nvidia.com/gover
+nance/management-team/default.aspx). investor.nvidia.com. Archived (https://web.archive.o
+rg/web/20231203235243/https://investor.nvidia.com/governance/management-team/default.
+aspx) from the original on December 3, 2023. Retrieved March 7, 2024.
+
+158. "NVIDIA Corporation – Governance – Board of Directors" (https://investor.nvidia.com/govern
+ance/board-of-directors/default.aspx). investor.nvidia.com. Archived (https://web.archive.org/
+web/20231204005016/https://investor.nvidia.com/governance/board-of-directors/default.asp
+x) from the original on December 4, 2023. Retrieved March 7, 2024.
+
+159. "Google Finance - Stock Market Prices, Real-time Quotes & Business News" (https://www.g
+oogle.com/finance/quote/NVDA).
+
+
+
+160. "NVIDIA Corporation – Financial Info – Annual Reports and Proxies" (https://investor.nvidia.c
+om/financial-info/annual-reports-and-proxies/default.aspx). investor.nvidia.com. Archived (htt
+ps://web.archive.org/web/20210114133504/https://investor.nvidia.com/financial-info/annual-r
+eports-and-proxies/default.aspx) from the original on January 14, 2021. Retrieved
+November 18, 2018.
+
+161. Armental, Maria (August 19, 2020). "Nvidia Posts Record Sales as Pandemic Sustains
+Demand for Gaming, Data-Center Chips" (https://www.wsj.com/articles/nvidia-posts-record-
+sales-as-pandemic-sustains-demand-for-gaming-data-center-chips-11597871110?mod=bus
+iness_lead_pos13). The Wall Street Journal. Archived (https://web.archive.org/web/2020082
+0183702/https://www.wsj.com/articles/nvidia-posts-record-sales-as-pandemic-sustains-dem
+and-for-gaming-data-center-chips-11597871110?mod=business_lead_pos13) from the
+original on August 20, 2020. Retrieved August 20, 2020.
+
+162. Goswami, Rohan (May 30, 2023). "Nvidia crosses into $1 trillion market cap before giving
+back gains" (https://www.cnbc.com/2023/05/30/nvidia-on-track-to-hit-1-trillion-market-cap-w
+hen-market-opens.html). CNBC. Archived (https://web.archive.org/web/20230530130905/htt
+ps://www.cnbc.com/2023/05/30/nvidia-on-track-to-hit-1-trillion-market-cap-when-market-ope
+ns.html) from the original on May 30, 2023. Retrieved May 30, 2023.
+
+163. Levy, Ari (November 20, 2023). "Nvidia stock closes at all-time high, a day before earnings"
+(https://www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-dem
+and-for-2024.html). CNBC. Archived (https://web.archive.org/web/20231120211443/https://
+www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for
+-2024.html) from the original on November 20, 2023. Retrieved November 20, 2023.
+
+164. "GPU Technology Conference" (https://www.nvidia.com/en-us/gtc/). GPU Technology
+Conference. Archived (https://web.archive.org/web/20210119132122/https://www.nvidia.co
+m/en-us/gtc/) from the original on January 19, 2021. Retrieved September 7, 2021.
+
+165. "Company History | NVIDIA" (https://www.nvidia.com/en-us/about-nvidia/corporate-timelin
+e/). www.nvidia.com. Archived (https://web.archive.org/web/20240309012821/https://www.n
+vidia.com/en-us/about-nvidia/corporate-timeline/) from the original on March 9, 2024.
+Retrieved September 7, 2021.
+
+166. "Deep Learning and GPU-Programming Workshops at GTC 2021" (https://www.nvidia.com/
+en-us/gtc/training/). NVIDIA. Archived (https://web.archive.org/web/20210827135127/https://
+www.nvidia.com/en-us/gtc/training/) from the original on August 27, 2021. Retrieved
+September 7, 2021.
+
+167. "Deep Learning and GPU-Programming Workshops at GTC 2018" (https://blogs.nvidia.com/
+blog/2020/03/02/gtc-san-jose-online-event/). NVIDIA. March 2, 2020. Archived (https://web.a
+rchive.org/web/20210119092200/https://blogs.nvidia.com/blog/2020/03/02/gtc-san-jose-onli
+ne-event/) from the original on January 19, 2021. Retrieved March 2, 2020.
+
+168. Caulfield, Brian (March 18, 2024). " 'We Created a Processor for the Generative AI Era,'
+NVIDIA CEO Says" (https://blogs.nvidia.com/blog/2024-gtc-keynote/). NVIDIA Blog.
+Archived (https://web.archive.org/web/20240329173311/https://blogs.nvidia.com/blog/2024-
+gtc-keynote/) from the original on March 29, 2024. Retrieved March 30, 2024.
+
+169. "Nvidia automotive solutions" (https://www.nvidia.com/object/drive-automotive-technology.ht
+ml). Nvidia. Archived (https://web.archive.org/web/20171004130646/http://www.nvidia.com/o
+bject/drive-automotive-technology.html) from the original on October 4, 2017. Retrieved
+March 29, 2016.
+
+170. "Nvidia unveils driverless car OS and partnership with TomTom" (https://eandt.theiet.org/con
+tent/articles/2016/09/nvidia-unveils-driverless-car-os-and-partnership-with-tomtom/).
+September 29, 2016. Archived (https://web.archive.org/web/20180918231227/https://eandt.t
+heiet.org/content/articles/2016/09/nvidia-unveils-driverless-car-os-and-partnership-with-tomt
+om/) from the original on September 18, 2018. Retrieved October 20, 2016.
+
+
+
+171. "NVIDIA BlueField Data Processing Units" (https://www.nvidia.com/en-us/networking/produc
+ts/data-processing-unit/). NVIDIA. Archived (https://web.archive.org/web/20210530225732/h
+ttps://www.nvidia.com/en-us/networking/products/data-processing-unit/) from the original on
+May 30, 2021. Retrieved May 29, 2021.
+
+172. Deierling, Kevin (May 21, 2020). "What Is a DPU? | NVIDIA Blog" (https://blogs.nvidia.com/b
+log/2020/05/20/whats-a-dpu-data-processing-unit/). The Official NVIDIA Blog. Archived (http
+s://web.archive.org/web/20220915084730/https://blogs.nvidia.com/blog/2020/05/20/whats-a
+-dpu-data-processing-unit/) from the original on September 15, 2022. Retrieved May 29,
+2021.
+
+173. "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads" (http
+s://nvidianews.nvidia.com/news/nvidia-announces-cpu-for-giant-ai-and-high-performance-co
+mputing-workloads) (Press release). NVIDIA. April 12, 2021. Archived (https://web.archive.o
+rg/web/20210805172118/https://nvidianews.nvidia.com/news/nvidia-announces-cpu-for-gian
+t-ai-and-high-performance-computing-workloads) from the original on August 5, 2021.
+Retrieved August 5, 2021.
+
+174. "NVIDIA Grace CPU" (https://www.nvidia.com/en-us/data-center/grace-cpu/). NVIDIA.
+Archived (https://web.archive.org/web/20210805172713/https://www.nvidia.com/en-us/data-
+center/grace-cpu/) from the original on August 5, 2021. Retrieved August 5, 2021.
+
+175. Wiggers, Kyle (October 9, 2020). "AI Weekly: Nvidia's Maxine opens the door to deepfakes
+and bias in video calls" (https://venturebeat.com/ai/ai-weekly-nvidias-maxine-opens-the-door
+-to-deepfakes-and-bias-in-video-calls/). VentureBeat. Retrieved July 2, 2024.
+
+176. "Nvidia Offers to Release Public Documentation on Certain Aspects of Their GPUs" (http://li
+sts.freedesktop.org/archives/nouveau/2013-September/014480.html). September 23, 2013.
+Archived (https://web.archive.org/web/20201112013329/https://lists.freedesktop.org/archive
+s/nouveau/2013-September/014480.html) from the original on November 12, 2020.
+Retrieved September 24, 2013.
+
+177. "nv" (http://www.x.org/wiki/nv). Archived (https://web.archive.org/web/20201112021514/http
+s://www.x.org/wiki/nv/) from the original on November 12, 2020. Retrieved August 6, 2015.
+
+178. Paul, Ryan (June 19, 2012). "Linus Torvalds says "f--k you" to NVIDIA" (https://arstechnica.c
+om/information-technology/2012/06/linus-torvalds-says-f-k-you-to-nvidia/). Ars Technica.
+Archived (https://web.archive.org/web/20180215023959/https://arstechnica.com/information
+-technology/2012/06/linus-torvalds-says-f-k-you-to-nvidia/) from the original on February 15,
+2018. Retrieved March 2, 2024.
+
+179. "Linus Torvalds: 'fuck you, Nvidia' for not supporting Linux" (https://www.theverge.com/2012/
+6/17/3092829/linus-torvalds-fuck-you-nvidia). The Verge. June 17, 2012. Archived (https://w
+eb.archive.org/web/20201204164428/https://www.theverge.com/2012/6/17/3092829/linus-to
+rvalds-fuck-you-nvidia) from the original on December 4, 2020. Retrieved July 9, 2013.
+
+180. Corbet, Jonathon (August 14, 2006). "X.org, distributors, and proprietary modules" (https://l
+wn.net/Articles/195351/). LWN.net. Archived (https://web.archive.org/web/20190921165358/
+https://lwn.net/Articles/195351/) from the original on September 21, 2019. Retrieved
+November 3, 2008.
+
+181. An overview of graphic card manufacturers and how well they work with Ubuntu (https://we
+b.archive.org/web/20110113115606/http://www.ubuntugamer.com/2011/01/ubuntu-graphics-
+driver-overview/) Ubuntu Gamer, January 10, 2011 (Article by Luke Benstead)
+
+182. "Unix Drivers" (https://www.nvidia.com/object/unix.html). Archived (https://web.archive.org/w
+eb/20201217085947/https://www.nvidia.com/object/unix.html) from the original on
+December 17, 2020. Retrieved August 6, 2015.
+
+183. Kevin Parrish (October 3, 2013). "Nvidia Removed Linux Driver Feature Due to Windows" (h
+ttp://www.tomshardware.com/news/nvidia-linux-basemosaic-ubuntu-parity,24519.html).
+Tom's Hardware. Archived (https://web.archive.org/web/20230521115822/https://www.toms
+hardware.com/news/nvidia-linux-basemosaic-ubuntu-parity,24519.html) from the original on
+May 21, 2023. Retrieved August 6, 2015.
+
+
+
+184. NVIDIA Begins Requiring Signed GPU Firmware Images (https://hardware.slashdot.org/stor
+y/14/09/27/1254219/nvidia-begins-requiring-signed-gpu-firmware-images) Archived (https://
+web.archive.org/web/20201111151021/https://hardware.slashdot.org/story/14/09/27/125421
+9/nvidia-begins-requiring-signed-gpu-firmware-images) November 11, 2020, at the Wayback
+Machine, slashdot, September 27, 2014.
+
+185. Linux-Firmware Adds Signed NVIDIA Firmware Binaries For Turing's Type-C Controller (http
+s://www.phoronix.com/scan.php?page=news_item&px=Linux-Firmware-Turing-C-Firm)
+Archived (https://web.archive.org/web/20210107030340/https://www.phoronix.com/scan.ph
+p?page=news_item) January 7, 2021, at the Wayback Machine, phoronix, February 13,
+2019.
+
+186. The Open-Source NVIDIA "Nouveau" Driver Gets A Batch Of Fixes For Linux 5.3 (https://ww
+w.phoronix.com/scan.php?page=news_item&px=Nouveau-Just-Fixes-Linux-5.3) Archived (h
+ttps://web.archive.org/web/20210107030340/https://www.phoronix.com/scan.php?page=ne
+ws_item) January 7, 2021, at the Wayback Machine, phoronix, July 19, 2019.
+
+187. "NVIDIA Releases Open-Source GPU Kernel Modules" (https://developer.nvidia.com/blog/n
+vidia-releases-open-source-gpu-kernel-modules/). May 11, 2022. Archived (https://web.archi
+ve.org/web/20220512172814/https://developer.nvidia.com/blog/nvidia-releases-open-source
+-gpu-kernel-modules/) from the original on May 12, 2022. Retrieved May 12, 2022.
+
+188. "NVIDIA Transitioning to Official, Open-Source Linux GPU Kernel Driver" (https://www.phoro
+nix.com/scan.php?page=article&item=nvidia-open-kernel&num=1). Archived (https://web.arc
+hive.org/web/20220512173050/https://www.phoronix.com/scan.php?page=article&item=nvid
+ia-open-kernel&num=1) from the original on May 12, 2022. Retrieved May 12, 2022.
+
+189. "NVIDIA Linux Open GPU Kernel Module Source" (https://github.com/NVIDIA/open-gpu-ker
+nel-modules). GitHub. May 17, 2022. Archived (https://web.archive.org/web/2022051217272
+2/https://github.com/NVIDIA/open-gpu-kernel-modules) from the original on May 12, 2022.
+Retrieved May 12, 2022.
+
+190. "Nouveau NVIDIA GSP Firmware Support Merged For Linux 6.7" (https://www.phoronix.co
+m/news/Nouveau-GSP-Merged-Linux-6.7). Phoronix. Archived (https://web.archive.org/web/
+20240302012216/https://www.phoronix.com/news/Nouveau-GSP-Merged-Linux-6.7) from
+the original on March 2, 2024. Retrieved March 2, 2024.
+
+191. Corbet, Jonathon. "A Nouveau graphics driver update" (https://lwn.net/Articles/953144/).
+LWN.net. Archived (https://web.archive.org/web/20240302012216/https://lwn.net/Articles/95
+3144/) from the original on March 2, 2024. Retrieved March 2, 2024.
+
+192. Mann, Tobias (July 21, 2025). "Nvidia extends CUDA support to RISC-V just in time for next
+wave of Chinese CPUs" (https://www.theregister.com/2025/07/21/nvidia_cuda_riscv/). The
+Register. Retrieved July 22, 2025.
+
+193. Kasanmascheff, Markus (July 21, 2025). "Nvidia Ports CUDA to Open-Source RISC-V
+Architecture, Expanding AI Ecosystem" (https://winbuzzer.com/2025/07/21/nvidia-ports-cuda
+-to-open-source-risc-v-architecture-expanding-ai-ecosystem-xcxwbn/). WinBuzzer.
+Retrieved July 22, 2025.
+
+194. Cao, Ann (July 22, 2025). "Nvidia to support RISC-V processors in latest boost to China's
+chip self-sufficiency drive" (https://www.scmp.com/tech/big-tech/article/3319154/nvidia-supp
+ort-risc-v-processors-latest-boost-chinas-chip-self-sufficiency-drive). South China Morning
+Post. Retrieved July 22, 2025.
+
+195. "NVIDIA Isaac GROOT N1 Is an Open Source Foundation Model for Accelerated Humanoid
+Robot Development" (https://www.hackster.io/news/nvidia-isaac-groot-n1-is-an-open-source
+-foundation-model-for-accelerated-humanoid-robot-development-effa04c90231).
+www.hackster.io.
+
+
+
+196. "Nvidia's Self-Driving Vehicle Approach — from Tesla to DHL to Mercedes" (https://cleantech
+nica.com/2020/08/13/nvidias-self-driving-vehicle-approach-from-tesla-to-dhl-to-mercedes/).
+CleanTechnica. August 13, 2020. Archived (https://web.archive.org/web/20210117215917/ht
+tps://cleantechnica.com/2020/08/13/nvidias-self-driving-vehicle-approach-from-tesla-to-dhl-t
+o-mercedes/) from the original on January 17, 2021. Retrieved October 28, 2020.
+
+197. "Google Cloud adds NVIDIA Tesla K80 GPU support to boost deep learning performance" (h
+ttps://www.techrepublic.com/article/google-cloud-adds-nvidia-tesla-k80-gpu-support-to-boost
+-deep-learning-performance/). TechRepublic. February 22, 2017. Archived (https://web.archi
+ve.org/web/20190610173053/https://www.techrepublic.com/article/google-cloud-adds-nvidia
+-tesla-k80-gpu-support-to-boost-deep-learning-performance/) from the original on June 10,
+2019. Retrieved April 19, 2017.
+
+198. "Intel, Nvidia Trade Shots Over AI, Deep Learning" (http://www.eweek.com/servers/intel-nvid
+ia-trade-shots-over-ai-deep-learning.html). August 25, 2016. Archived (https://web.archive.or
+g/web/20230521130755/https://www.eweek.com/servers/intel-nvidia-trade-shots-over-ai-dee
+p-learning/) from the original on May 21, 2023. Retrieved April 19, 2017.
+
+199. "Nvidia CEO bets big on deep learning and VR" (https://venturebeat.com/2016/04/05/nvidia-
+ceo-bets-big-on-deep-learning-and-vr/). April 5, 2016. Archived (https://web.archive.org/web/
+20201125202428/https://venturebeat.com/2016/04/05/nvidia-ceo-bets-big-on-deep-learning-
+and-vr/) from the original on November 25, 2020. Retrieved April 19, 2017.
+
+200. "From not working to neural networking" (https://www.economist.com/news/special-report/21
+700756-artificial-intelligence-boom-based-old-idea-modern-twist-not). The Economist. June
+23, 2016. Archived (https://web.archive.org/web/20161231203934/https://www.economist.co
+m/news/special-report/21700756-artificial-intelligence-boom-based-old-idea-modern-twist-n
+ot) from the original on December 31, 2016. Retrieved September 7, 2017.
+
+201. Coldewey, Devin (April 5, 2016). "NVIDIA announces a supercomputer aimed at deep
+learning and AI" (https://techcrunch.com/2016/04/05/nvidia-announces-a-supercomputer-ai
+med-at-deep-learning-and-ai/). Archived (https://web.archive.org/web/20201129054127/http
+s://techcrunch.com/2016/04/05/nvidia-announces-a-supercomputer-aimed-at-deep-learning-
+and-ai/) from the original on November 29, 2020. Retrieved September 7, 2017.
+
+202. Carr, Austin; King, Ian (June 15, 2023). "How Nvidia Became ChatGPT's Brain and Joined
+the $1 Trillion Club" (https://www.bloomberg.com/news/features/2023-06-15/nvidia-s-ai-chip
+s-power-chatgpt-and-multibillion-dollar-surge). Bloomberg News. Archived (https://archive.to
+day/20230618072913/https://www.bloomberg.com/news/features/2023-06-15/nvidia-s-ai-chi
+ps-power-chatgpt-and-multibillion-dollar-surge) from the original on June 18, 2023.
+
+203. Vanian, Jonathan (August 15, 2016). "Elon Musk's Artificial Intelligence Project Just Got a
+Free Supercomputer" (https://fortune.com/2016/08/15/elon-musk-artificial-intelligence-opena
+i-nvidia-supercomputer/). Fortune. Archived (https://archive.today/20230607233501/https://f
+ortune.com/2016/08/15/elon-musk-artificial-intelligence-openai-nvidia-supercomputer/) from
+the original on June 7, 2023.
+
+204. Nichols, Shaun (February 21, 2017). "Google rents out Nvidia Tesla GPUs in its cloud. If you
+ask nicely, that'll be 70 cents an hour, bud" (https://www.theregister.co.uk/2017/02/21/google
+_says_cloud_gpu_boxes_are_go/). The Register. Archived (https://web.archive.org/web/201
+90709170955/https://www.theregister.co.uk/2017/02/21/google_says_cloud_gpu_boxes_are
+_go/) from the original on July 9, 2019. Retrieved April 19, 2017.
+
+205. "IBM, NVIDIA partner for 'fastest deep learning enterprise solution' in the world" (https://ww
+w.techrepublic.com/article/ibm-nvidia-partner-for-fastest-deep-learning-enterprise-solution-in
+-the-world/). TechRepublic. November 14, 2016. Archived (https://web.archive.org/web/2020
+1012034603/https://www.techrepublic.com/article/ibm-nvidia-partner-for-fastest-deep-learnin
+g-enterprise-solution-in-the-world/) from the original on October 12, 2020. Retrieved
+April 19, 2017.
+
+
+
+206. "IBM and Nvidia team up to create deep learning hardware" (https://venturebeat.com/2016/1
+1/14/ibm-and-nvidia-team-up-to-create-deep-learning-hardware/). November 14, 2016.
+Archived (https://web.archive.org/web/20201012090856/https://venturebeat.com/2016/11/1
+4/ibm-and-nvidia-team-up-to-create-deep-learning-hardware/) from the original on October
+12, 2020. Retrieved April 19, 2017.
+
+207. "IBM and Nvidia make deep learning easy for AI service creators with a new bundle" (http://
+www.digitaltrends.com/computing/ibm-nvidia-hardware-software-bundle-deep-learning-ai/).
+November 15, 2016. Archived (https://web.archive.org/web/20201024185627/https://www.di
+gitaltrends.com/computing/ibm-nvidia-hardware-software-bundle-deep-learning-ai/) from the
+original on October 24, 2020. Retrieved April 19, 2017.
+
+208. "Facebook 'Big Basin' AI Compute Platform Adopts NVIDIA Tesla P100 For Next Gen Data
+Centers" (https://web.archive.org/web/20201126093601/https://hothardware.com/news/face
+book-big-basin-ai-platform-adopts-nvidia-tesla-p100-data-centers). Archived from the
+original (https://hothardware.com/news/facebook-big-basin-ai-platform-adopts-nvidia-tesla-p
+100-data-centers) on November 26, 2020. Retrieved April 19, 2017.
+
+209. "Nvidia to Power Fujitsu's New Deep Learning System at RIKEN – insideHPC" (http://inside
+hpc.com/2017/03/nvidia-power-fujitsus-new-deep-learning-system-riken/). March 5, 2017.
+Archived (https://web.archive.org/web/20201024004640/https://insidehpc.com/2017/03/nvidi
+a-power-fujitsus-new-deep-learning-system-riken/) from the original on October 24, 2020.
+Retrieved April 19, 2017.
+
+210. Tilley, Aaron (February 9, 2017). "Nvidia Beats Earnings Estimates As Its Artificial
+Intelligence Business Keeps On Booming" (https://www.forbes.com/sites/aarontilley/2017/0
+2/09/nvidia-beat-earnings-estimates-as-its-artificial-intelligence-business-keeps-on-boomin
+g/). Forbes. Archived (https://web.archive.org/web/20170419202205/https://www.forbes.co
+m/sites/aarontilley/2017/02/09/nvidia-beat-earnings-estimates-as-its-artificial-intelligence-bu
+siness-keeps-on-booming/) from the original on April 19, 2017. Retrieved January 27, 2021.
+
+211. "Robot see, robot do: Nvidia system lets robots learn by watching humans" (https://newatla
+s.com/robot-learn-watching-humans/54732/) Archived (https://web.archive.org/web/2020110
+9004513/https://newatlas.com/robot-learn-watching-humans/54732/) November 9, 2020, at
+the Wayback Machine New Atlas, May 23, 2018
+
+212. Takahashi, Dean (October 5, 2020). "Nvidia announces open beta for Omniverse as a
+'metaverse' for engineers" (https://venturebeat.com/ai/nvidia-announces-open-beta-for-omni
+verse-as-a-metaverse-for-engineers/). VentureBeat. Retrieved June 19, 2024.
+
+213. Takahashi, Dean (January 3, 2023). "Nvidia advances robot simulation with updates to Isaac
+Sim" (https://venturebeat.com/ai/nvidia-advances-robot-simulation-with-updates-to-isaac-si
+m/). VentureBeat. Retrieved June 19, 2024.
+
+214. "NVIDIA Isaac Sim" (https://github.com/isaac-sim). GitHub. Retrieved June 19, 2024.
+215. Morris, Meghan (June 3, 2024). "Nvidia CEO Jensen Huang says robots are the next wave
+
+of AI — and 2 kinds will dominate" (https://www.businessinsider.com/nvidia-ceo-jensen-huan
+g-pushes-robot-revolution-taiwan-computex-speech-2024-6). Business Insider.
+
+216. Coleman, Julie (March 20, 2024). "Nvidia CEO Jensen Huang explains why he's all in on
+humanoid robotics" (https://www.cnbc.com/2024/03/20/nvidia-ceo-jensen-huang-explains-w
+hy-hes-all-in-on-humanoid-robotics.html). CNBC. Retrieved June 19, 2024.
+
+217. Liszewski, Andrew (March 18, 2025). "Nvidia says 'the age of generalist robotics is here' " (h
+ttps://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-avai
+lable). The Verge. Retrieved April 7, 2025.
+
+218. Moore, Mike (March 18, 2025). " 'The age of generalist robotics is here' - Nvidia's latest
+GROOT AI model just took us another step closer to fully humanoid robots" (https://www.tec
+hradar.com/pro/the-age-of-generalist-robotics-is-here-nvidias-latest-groot-ai-model-just-took
+-us-another-step-closer-to-fully-humanoid-robots). TechRadar. Retrieved April 7, 2025.
+
+
+
+219. "How Nvidia's Simulation Tech is Used for Advanced Robotics Training" (https://www.autom
+ationworld.com/factory/robotics/news/55253285/how-nvidias-simulation-tech-is-used-for-adv
+anced-robotics-training). Automation World. January 8, 2025.
+
+220. "Six Startups Split $1.5 Million in Cash in AI startup competition" (https://web.archive.org/we
+b/20220521102741/https://blogs.nvidia.com/blog/2017/05/10/these-six-ai-startups-just-snag
+ged-a-share-of-1-5-million-in-cash-prizes/). The Official NVIDIA Blog. May 10, 2017.
+Archived from the original (https://blogs.nvidia.com/blog/2017/05/10/these-six-ai-startups-jus
+t-snagged-a-share-of-1-5-million-in-cash-prizes/) on May 21, 2022. Retrieved March 28,
+2018.
+
+221. Dean Takahashi (March 28, 2018). "Nvidia's Inception AI contest awards $1 million to 3 top
+startups" (https://venturebeat.com/2018/03/27/nvidias-inception-ai-contest-awards-1-million-
+to-3-top-startups/). Venture Beat. Archived (https://web.archive.org/web/20201109013825/ht
+tps://venturebeat.com/2018/03/27/nvidias-inception-ai-contest-awards-1-million-to-3-top-star
+tups/) from the original on November 9, 2020. Retrieved September 6, 2018.
+
+222. "Better Than 8K Resolution: NVIDIA Inception Displays Global AI Startup Ecosystem" (http
+s://blogs.nvidia.com/blog/2021/08/02/inception-8k-members/). The Official NVIDIA Blog.
+August 2, 2021. Archived (https://web.archive.org/web/20210910162307/https://blogs.nvidia.
+com/blog/2021/08/02/inception-8k-members/) from the original on September 10, 2021.
+Retrieved September 10, 2021.
+
+223. "NVIDIA Discloses Full Memory Structure and Limitations of GTX 970" (https://web.archive.o
+rg/web/20150225180420/http://www.pcper.com/reviews/Graphics-Cards/NVIDIA-Discloses-
+Full-Memory-Structure-and-Limitations-GTX-970). PCPer. Archived from the original (http://
+www.pcper.com/reviews/Graphics-Cards/NVIDIA-Discloses-Full-Memory-Structure-and-Limi
+tations-GTX-970) on February 25, 2015. Retrieved January 28, 2015.
+
+224. "GeForce GTX 970 Memory Issue Fully Explained – Nvidia's Response" (http://wccftech.co
+m/nvidia-geforce-gtx-970-memory-issue-fully-explained/). WCFTech. January 24, 2015.
+Archived (https://web.archive.org/web/20150307020110/http://wccftech.com/nvidia-geforce-
+gtx-970-memory-issue-fully-explained/) from the original on March 7, 2015. Retrieved
+August 16, 2021.
+
+225. "Why Nvidia's GTX 970 slows down when using more than 3.5GB VRAM" (http://www.pcga
+mer.com/why-nvidias-gtx-970-slows-down-using-more-than-35gb-vram/). PCGamer.
+January 26, 2015. Archived (https://web.archive.org/web/20150302151518/http://www.pcga
+mer.com/why-nvidias-gtx-970-slows-down-using-more-than-35gb-vram/) from the original on
+March 2, 2015. Retrieved August 16, 2021.
+
+226. "GeForce GTX 970: Correcting The Specs & Exploring Memory Allocation" (https://web.archi
+ve.org/web/20150225183034/http://www.anandtech.com/show/8935/geforce-gtx-970-correct
+ing-the-specs-exploring-memory-allocation). AnandTech. Archived from the original (http://w
+ww.anandtech.com/show/8935/geforce-gtx-970-correcting-the-specs-exploring-memory-allo
+cation) on February 25, 2015. Retrieved August 16, 2021.
+
+227. "NVIDIA Working on New Driver For GeForce GTX 970 To Tune Memory Allocation
+Problems and Improve Performance" (http://wccftech.com/nvidia-working-driver-geforce-gtx-
+970-tune-memory-allocation-problems-improve-performance/). WCFTech. January 28,
+2015. Archived (https://web.archive.org/web/20150217061234/http://wccftech.com/nvidia-wo
+rking-driver-geforce-gtx-970-tune-memory-allocation-problems-improve-performance/) from
+the original on February 17, 2015. Retrieved August 16, 2021.
+
+228. "NVIDIA clarifies no driver update for GTX 970 specifically" (http://www.pcworld.com/article/
+2876802/nvidia-plans-geforce-gtx-970-driver-update-for-memory-performance-concerns.htm
+l/). PC World. January 29, 2015. Archived (https://web.archive.org/web/20210830210733/htt
+ps://www.pcworld.com/article/2876802/nvidia-plans-geforce-gtx-970-driver-update-for-memo
+ry-performance-concerns.html) from the original on August 30, 2021. Retrieved August 16,
+2021.
+
+
+
+229. "NVIDIA Plans Driver Update for GTX 970 Memory Issue, Help with Returns" (http://www.pc
+per.com/news/Graphics-Cards/NVIDIA-Plans-Driver-Update-GTX-970-Memory-Issue-Help-
+Returns). pcper.com. January 28, 2015. Archived (https://web.archive.org/web/2015021410
+1918/http://www.pcper.com/news/Graphics-Cards/NVIDIA-Plans-Driver-Update-GTX-970-M
+emory-Issue-Help-Returns) from the original on February 14, 2015. Retrieved August 16,
+2021.
+
+230. "Nvidia CEO addresses GTX 970 controversy" (http://www.pcgamer.com/nvidia-ceo-address
+es-gtx-970-controversy/). PCGamer. February 26, 2015. Archived (https://web.archive.org/w
+eb/20150227104339/http://www.pcgamer.com/nvidia-ceo-addresses-gtx-970-controversy/)
+from the original on February 27, 2015. Retrieved August 16, 2021.
+
+231. Chalk, Andy (February 22, 2015). "Nvidia faces false advertising lawsuit over GTX 970
+specs" (http://www.pcgamer.com/nvidia-faces-false-advertising-lawsuit-over-gtx-970-spec
+s/). PC Gamer. Archived (https://web.archive.org/web/20150324202726/http://www.pcgame
+r.com/nvidia-faces-false-advertising-lawsuit-over-gtx-970-specs/) from the original on March
+24, 2015. Retrieved March 27, 2015.
+
+232. Niccolai, James (February 20, 2015). "Nvidia hit with false advertising suit over GTX 970
+performance" (http://www.pcworld.com/article/2887234/nvidia-hit-with-false-advertising-suit-
+over-gtx-970-performance.html). PC World. Archived (https://web.archive.org/web/20150326
+052210/http://www.pcworld.com/article/2887234/nvidia-hit-with-false-advertising-suit-over-gt
+x-970-performance.html) from the original on March 26, 2015. Retrieved March 27, 2015.
+
+233. Ryan Smith. "Diving Deeper: The Maxwell 2 Memory Crossbar & ROP Partitions – GeForce
+GTX 970: Correcting The Specs & Exploring Memory Allocation" (https://web.archive.org/we
+b/20150226174250/http://www.anandtech.com/show/8935/geforce-gtx-970-correcting-the-s
+pecs-exploring-memory-allocation/2). anandtech.com. Archived from the original (http://ww
+w.anandtech.com/show/8935/geforce-gtx-970-correcting-the-specs-exploring-memory-alloc
+ation/2) on February 26, 2015. Retrieved August 16, 2021.
+
+234. "Nvidia settles class action lawsuit" (https://topclassactions.com/lawsuit-settlements/lawsuit-
+news/340705-nvidia-settles-graphics-card-false-advertising-class-action). Top Class Actions.
+July 27, 2016. Archived (https://web.archive.org/web/20160728134302/https://topclassaction
+s.com/lawsuit-settlements/lawsuit-news/340705-nvidia-settles-graphics-card-false-advertisin
+g-class-action/) from the original on July 28, 2016. Retrieved July 27, 2016.
+
+235. "Nvidia gets anti-competitive with unsavory GeForce Partner Program" (https://www.techspo
+t.com/news/73661-nvidia-gets-anti-competitive-unsavory-geforce-partner-program.html).
+March 12, 2018. Archived (https://web.archive.org/web/20210417102448/https://www.techsp
+ot.com/news/73661-nvidia-gets-anti-competitive-unsavory-geforce-partner-program.html)
+from the original on April 17, 2021. Retrieved April 17, 2021.
+
+236. Bennett, Kyle (March 8, 2018). "GeForce Partner Program Impacts Consumer Choice" (http
+s://web.archive.org/web/20190712164949/https://www.hardocp.com/article/2018/03/07/gefor
+ce_partner_program_impacts_consumer_choice). HardOcP. Archived from the original (http
+s://www.hardocp.com/article/2018/03/07/geforce_partner_program_impacts_consumer_choi
+ce) on July 12, 2019.
+
+237. "GeForce Partner Program Helps Gamers Know What They're Buying | NVIDIA Blog" (http
+s://blogs.nvidia.com/blog/2018/03/01/geforce-partner-program/). The Official NVIDIA Blog.
+March 1, 2018. Archived (https://web.archive.org/web/20210417102449/https://blogs.nvidia.
+com/blog/2018/03/01/geforce-partner-program/) from the original on April 17, 2021.
+Retrieved April 10, 2018.
+
+238. Killian, Zak (May 4, 2018). "Nvidia puts the kibosh on the GeForce Partner Program" (http
+s://techreport.com/news/33603/nvidia-puts-the-kibosh-on-the-geforce-partner-program).
+Tech Report. Archived (https://web.archive.org/web/20220812101343/https://techreport.co
+m/news/33603/nvidia-puts-the-kibosh-on-the-geforce-partner-program/) from the original on
+August 12, 2022. Retrieved May 4, 2018.
+
+
+
+239. Miller, Chris (December 12, 2020). "Nvidia Under Fire For Banning Review Site That Doesn't
+Focus On Nvidia Hardware Strengths | Happy Gamer" (https://happygamer.com/nvidia-unde
+r-fire-for-banning-review-site-that-doesnt-focus-on-nvidia-hardware-strengths-97094/).
+HappyGamer. Archived (https://web.archive.org/web/20201217023151/https://happygamer.c
+om/nvidia-under-fire-for-banning-review-site-that-doesnt-focus-on-nvidia-hardware-strengths
+-97094/) from the original on December 17, 2020. Retrieved December 13, 2020.
+
+240. "Hardware Unboxed VS NVIDIA: a Masterpiece of Bad Marketing" (https://pangoly.com/en/b
+log/hardware-unboxed-vs-nvidia-a-masterpiece-of-bad-marketing/126). Pangoly. December
+13, 2020. Archived (https://web.archive.org/web/20210123122503/https://pangoly.com/en/bl
+og/hardware-unboxed-vs-nvidia-a-masterpiece-of-bad-marketing/126) from the original on
+January 23, 2021. Retrieved December 17, 2020.
+
+241. "Nvidia have officially decided to ban us from receiving GeForce Founders Edition GPU
+review samples" (https://twitter.com/hardwareunboxed/status/1337246983682060289).
+Twitter. Archived (https://web.archive.org/web/20201224024257/https://twitter.com/Hardware
+Unboxed/status/1337246983682060289) from the original on December 24, 2020.
+Retrieved December 13, 2020.
+
+242. Lal, Arjun Krishna; Franco, Julio (December 12, 2020). "The ugly side of Nvidia: A
+rollercoaster ride that shows when Big Tech doesn't get it" (https://www.techspot.com/news/
+87946-ugly-side-nvidia-rollercoaster-ride-shows-when-big.html). TechSpot. Archived (https://
+web.archive.org/web/20210105184243/https://www.techspot.com/news/87946-ugly-side-nvi
+dia-rollercoaster-ride-shows-when-big.html) from the original on January 5, 2021. Retrieved
+December 13, 2020.
+
+243. Alderson, Alex (December 13, 2020). "NVIDIA u-turns on its decision to block Hardware
+Unboxed from receiving GPU review units" (https://www.notebookcheck.net/NVIDIA-u-turns-
+on-its-decision-to-block-Hardware-Unboxed-from-receiving-GPU-review-units.509177.0.htm
+l). Notebookcheck. Archived (https://web.archive.org/web/20201214233828/https://www.not
+ebookcheck.net/NVIDIA-u-turns-on-its-decision-to-block-Hardware-Unboxed-from-receiving-
+GPU-review-units.509177.0.html) from the original on December 14, 2020. Retrieved
+December 13, 2020.
+
+244. "Nvidia puts pressure on the hardware press" (https://web.archive.org/web/2020121411560
+1/https://www.hardwareheaven.com/nvidia-puts-pressure-on-the-hardware-press/).
+HardwareHeaven.com. December 14, 2020. Archived from the original (https://www.hardwar
+eheaven.com/nvidia-puts-pressure-on-the-hardware-press/) on December 14, 2020.
+Retrieved December 15, 2020.
+
+245. Kokhanyuk, Stanislav (December 13, 2020). "I believe in ray tracing, but I do not believe in
+Nvidia's RTX 3000-series GPUs" (https://www.notebookcheck.net/I-believe-in-ray-tracing-bu
+t-I-do-not-believe-in-Nvidia-s-RTX-3000-series-GPUs.509180.0.html). Notebookcheck.
+Archived (https://web.archive.org/web/20201229095954/https://www.notebookcheck.net/I-be
+lieve-in-ray-tracing-but-I-do-not-believe-in-Nvidia-s-RTX-3000-series-GPUs.509180.0.html)
+from the original on December 29, 2020. Retrieved December 13, 2020.
+
+246. "NVIDIA might ACTUALLY be EVIL... – WAN Show December 11, 2020" (https://www.youtu
+be.com/watch?v=iXn9O-Rzb_M). YouTube. December 11, 2020. Archived (https://ghostarch
+ive.org/varchive/youtube/20211211/iXn9O-Rzb_M) from the original on December 11, 2021.
+
+247. "I have something else to say about NVIDIA's latest decision to shoot both its feet: They've
+now made it so that any reviewers covering RT will become subject to scrutiny from
+untrusting viewers who will suspect subversion by the company. Shortsighted self-own from
+NVIDIA" (https://twitter.com/gamersnexus/status/1337300582785282049). Twitter.
+December 11, 2020. Archived (https://web.archive.org/web/20201221025356/https://twitter.c
+om/GamersNexus/status/1337300582785282049) from the original on December 21, 2020.
+Retrieved December 13, 2020.
+
+
+
+248. Farrell, Nick (December 14, 2020). "Nvidia retreats from PR disaster" (https://fudzilla.com/ne
+ws/52042-nvidia-retreats-from-pr-disaster). fudzilla.com. Archived (https://web.archive.org/w
+eb/20201214112414/https://www.fudzilla.com/news/52042-nvidia-retreats-from-pr-disaster)
+from the original on December 14, 2020. Retrieved December 14, 2020.
+
+249. "Nvidia issues an Apology for Backlisting Hardware Unboxed as their Reviewer" (https://we
+b.archive.org/web/20201215194427/https://appuals.com/nvidia-issues-an-apology-for-backli
+sting-hardware-unboxed-as-their-reviewer/). Appuals.com. December 15, 2020. Archived
+from the original (https://appuals.com/nvidia-issues-an-apology-for-backlisting-hardware-unb
+oxed-as-their-reviewer/) on December 15, 2020. Retrieved December 16, 2020.
+
+250. "I just received an email from Nvidia apologizing for the previous email & they've now
+walked everything back" (https://twitter.com/hardwareunboxed/status/133788574138947174
+5). Twitter. December 12, 2020. Archived (https://web.archive.org/web/20210113023143/htt
+ps://twitter.com/HardwareUnboxed/status/1337885741389471745) from the original on
+January 13, 2021. Retrieved December 13, 2020.
+
+251. Hardware Unboxed (December 14, 2020). "Nvidia Bans Hardware Unboxed, Then
+Backpedals: Our Thoughts" (https://www.youtube.com/watch?v=wdAMcQgR92k). YouTube.
+Archived (https://ghostarchive.org/varchive/youtube/20211211/wdAMcQgR92k) from the
+original on December 11, 2021. Retrieved December 14, 2020.
+
+252. Hardware Unboxed (December 14, 2020). "Twitter: Bryan Del Rizzo from Nvidia has
+reached out a second time to apologize and asked us to share this with you" (https://twitter.c
+om/hardwareunboxed/status/1338709463721672705). Archived (https://web.archive.org/we
+b/20201215045635/https://twitter.com/HardwareUnboxed/status/1338709463721672705)
+from the original on December 15, 2020. Retrieved December 22, 2020.
+
+253. Stanley, Donny (December 15, 2020). "NVIDIA Apologizes For Email Blacklisting Reviewer,
+Retracts Original Statements" (https://web.archive.org/web/20201215095411/https://adoredt
+v.com/nvidia-apologizes-for-email-blacklisting-reviewer-retracts-original-statements/).
+AdoredTV. Archived from the original (https://adoredtv.com/nvidia-apologizes-for-email-black
+listing-reviewer-retracts-original-statements/) on December 15, 2020. Retrieved
+December 22, 2020.
+
+254. Prentice, Chris; Singh, Kanishka (May 6, 2022). "Nvidia to pay $5.5 million penalty for
+'inadequate disclosures' about cryptomining" (https://www.reuters.com/technology/us-sec-ch
+arges-nvidia-with-inadequate-disclosures-about-impact-cryptomining-2022-05-06/). Reuters.
+Archived (https://web.archive.org/web/20220507154409/https://www.reuters.com/technolog
+y/us-sec-charges-nvidia-with-inadequate-disclosures-about-impact-cryptomining-2022-05-0
+6/) from the original on May 7, 2022. Retrieved May 7, 2022.
+
+255. IV, Antonio Pequeño. "Nvidia's French Offices Raided Over Antitrust Concerns, Report
+Says" (https://www.forbes.com/sites/antoniopequenoiv/2023/09/28/nvidias-french-offices-rai
+ded-over-antitrust-concerns-report-says/). Forbes. Retrieved March 10, 2025.
+
+256. Lightenberg, Nick (August 1, 2025). "Anthropic CEO Dario Amodei escalates war of words
+with Jensen Huang, calling out 'outrageous lie' and getting emotional about father's death"
+(https://fortune.com/2025/08/01/dario-amodei-outrageous-lie-jensen-huang-anthropic-nvidia-
+regulation/). Fortune. Retrieved August 1, 2025.
+
+257. Beavers, Olivia; Ramkumar, Amrith (May 29, 2025). "Senators Bash Nvidia's Plans for
+Facility in China" (https://www.wsj.com/politics/senators-bash-nvidias-plans-for-facility-in-chi
+na-6f581018). The Wall Street Journal. Archived (https://archive.today/20250529110341/htt
+ps://www.wsj.com/politics/senators-bash-nvidias-plans-for-facility-in-china-6f581018) from
+the original on May 29, 2025. Retrieved May 30, 2025.
+
+258. "Nvidia orders halt to H20 chip production after China directive, The Information says" (http
+s://www.reuters.com/world/china/nvidia-orders-halt-h20-chip-production-after-china-directive
+-information-says-2025-08-22/). Reuters. August 21, 2025. Retrieved August 22, 2025.
+
+259. "Nvidia Orders Halt to H20 Production After China Directive Against Purchases" (https://ww
+w.theinformation.com/articles/nvidia-orders-halt-h20-production-china-directive-purchase).
+The Information. August 21, 2025. Retrieved August 22, 2025.
+
+
+
+260. "Nvidia Asks Suppliers to Halt H20 Work, Information Says" (https://finance.yahoo.com/new
+s/nvidia-asks-suppliers-halt-h20-005428505.html). Yahoo Finance. August 21, 2025.
+Retrieved August 22, 2025.
+
+261. "Compared to the H100, how are Nvidia's H20, L20, and L2 chips performing?" (https://new
+s.futunn.com/en/post/34012455/compared-to-the-h100-how-are-nvidia-s-h20-l20). Futunn.
+November 9, 2023. Retrieved August 22, 2025.
+
+262. "How do Nvidia's H20, L20 and L2 chips perform compared to the H100?" (https://www.bina
+nce.com/en/square/post/1719400). Binance Square. November 10, 2023. Retrieved
+August 22, 2025.
+
+263. "Nvidia orders 300000 H20 chips from TSMC due to robust China demand, sources say" (htt
+ps://www.reuters.com/world/china/nvidia-orders-300000-h20-chips-tsmc-due-robust-china-d
+emand-sources-say-2025-07-29/). Reuters. July 28, 2025. Retrieved August 22, 2025.
+
+264. "Nvidia CEO: H20 chip has no security backdoors, hopes China's response will be
+satisfactory" (https://www.ainvest.com/news/nvidia-ceo-h20-chip-security-backdoors-hopes-
+china-response-satisfactory-2508/). AInvest. August 20, 2025. Retrieved August 22, 2025.
+
+265. "Exclusive: Nvidia working on new AI chip for China that outperforms H20, sources say" (htt
+ps://www.reuters.com/world/china/nvidia-working-new-ai-chip-china-that-outperforms-h20-so
+urces-say-2025-08-19/). Reuters. August 19, 2025. Retrieved August 22, 2025.
+
+Further reading
+Witt, Stephen (2025). The Thinking Machine: Jensen Huang, Nvidia, and the World's Most
+Coveted Microchip. Penguin Publishing Group. ISBN 9780593832691.
+
+External links
+Official website (https://www.nvidia.com/) 
+Nvidia Developer website (https://developer.nvidia.com/)
+Nvidia (https://www.opensecrets.org/orgs/summary?id=D000036303) on OpenSecrets, a
+website that tracks and publishes data on campaign finance and lobbying
+Business data for Nvidia: Google (https://www.google.com/finance/quote/NVDA:NASDAQ) ·
+Reuters (https://www.reuters.com/markets/companies/NVDA.O) · SEC filings (https://www.s
+ec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810) · Yahoo! (https://finance.y
+ahoo.com/quote/NVDA)
+After Words interview with Stephen Witt on The Thinking Machine: Jensen Huang, Nvidia,
+and the World's Most Coveted Microchip, April 25, 2025 (https://www.c-span.org/program/bo
+ok-tv/after-words-with-stephen-witt/657769), C-SPAN
+GeForce logo history at 1000logos (https://1000logos.net/geforce-logo/)
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nvidia&oldid=1307229670"
