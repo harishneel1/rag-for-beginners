@@ -74,7 +74,8 @@ def create_vector_store(chunks, persist_directory="db/chroma_db"):
     vectorstore = Chroma.from_documents(
         documents=chunks,
         embedding=embeddings,
-        persist_directory=persist_directory
+        persist_directory=persist_directory, 
+        collection_metadata={"hnsw:space": "cosine"}
     )
     print("--- Finished creating vector store ---")
     
@@ -96,7 +97,8 @@ def main():
         embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
         vectorstore = Chroma(
             persist_directory=persistent_directory,
-            embedding_function=embeddings
+            embedding_function=embeddings, 
+            collection_metadata={"hnsw:space": "cosine"}
         )
         print(f"Loaded existing vector store with {vectorstore._collection.count()} documents")
         return vectorstore
@@ -117,11 +119,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
 
 
 
@@ -148,3 +145,4 @@ if __name__ == "__main__":
 #        metadata={'source': 'docs/tesla.txt'}
 #    )
 # ]
+

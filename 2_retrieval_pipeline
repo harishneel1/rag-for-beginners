@@ -8,8 +8,12 @@ persistent_directory = "db/chroma_db"
 
 # Load embeddings and vector store
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
-db = Chroma(persist_directory=persistent_directory, embedding_function=embeddings)
 
+db = Chroma(
+    persist_directory=persistent_directory,
+    embedding_function=embeddings,
+    collection_metadata={"hnsw:space": "cosine"}  
+)
 # Search for relevant documents
 query = "Which island does SpaceX lease for its launches in the Pacific?"
 retriever = db.as_retriever(search_kwargs={"k": 3})
