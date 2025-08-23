@@ -1,14 +1,10 @@
-import os
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv
 
 load_dotenv()
 
-
-# Define paths
-current_dir = os.path.dirname(os.path.abspath(__file__))
-persistent_directory = os.path.join(current_dir, "db", "chroma_db")
+persistent_directory = "db/chroma_db"
 
 # Load embeddings and vector store
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")

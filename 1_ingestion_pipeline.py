@@ -17,7 +17,7 @@ def load_documents(docs_path="docs"):
     
     # Load all .txt files from the docs directory
     loader = DirectoryLoader(
-        docs_path,
+        path=docs_path,
         glob="*.txt",
         loader_cls=TextLoader
     )
@@ -27,7 +27,14 @@ def load_documents(docs_path="docs"):
     if len(documents) == 0:
         raise FileNotFoundError(f"No .txt files found in {docs_path}. Please add your company documents.")
     
-    print(f"Loaded {len(documents)} documents")
+   
+    for i, doc in enumerate(documents[:2]):  # Show first 2 documents
+        print(f"\nDocument {i+1}:")
+        print(f"  Source: {doc.metadata['source']}")
+        print(f"  Content length: {len(doc.page_content)} characters")
+        print(f"  Content preview: {doc.page_content[:100]}...")
+        print(f"  metadata: {doc.metadata}")
+
     return documents
 
 def split_documents(documents, chunk_size=1000, chunk_overlap=0):
@@ -40,13 +47,19 @@ def split_documents(documents, chunk_size=1000, chunk_overlap=0):
     )
     
     chunks = text_splitter.split_documents(documents)
-    print(f"Created {len(chunks)} chunks")
     
-    # Show a preview of the first chunk
-    if chunks:
-        print(f"\n--- Sample Chunk Preview ---")
-        print(f"Chunk length: {len(chunks[0].page_content)} characters")
-        print(f"Preview: {chunks[0].page_content[:200]}...")
+    # if chunks:
+    
+    #     for i, chunk in enumerate(chunks[:5]):
+    #         print(f"\n--- Chunk {i+1} ---")
+    #         print(f"Source: {chunk.metadata['source']}")
+    #         print(f"Length: {len(chunk.page_content)} characters")
+    #         print(f"Content:")
+    #         print(chunk.page_content)
+    #         print("-" * 50)
+        
+    #     if len(chunks) > 5:
+    #         print(f"\n... and {len(chunks) - 5} more chunks")
     
     return chunks
 
@@ -73,16 +86,13 @@ def main():
     print("=== RAG Document Ingestion Pipeline ===\n")
     
     # Define paths
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    docs_path = os.path.join(current_dir, "docs")
-    persistent_directory = os.path.join(current_dir, "db", "chroma_db")
+    docs_path = "docs"
+    persistent_directory = "db/chroma_db"
     
     # Check if vector store already exists
     if os.path.exists(persistent_directory):
         print("✅ Vector store already exists. No need to re-process documents.")
-        print(f"Existing vector store found at: {persistent_directory}")
         
-        # Optionally load existing vector store to verify
         embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
         vectorstore = Chroma(
             persist_directory=persistent_directory,
@@ -94,16 +104,47 @@ def main():
     print("Persistent directory does not exist. Initializing vector store...\n")
     
     # Step 1: Load documents
-    documents = load_documents(docs_path)
-    
+    documents = load_documents(docs_path)  
+
     # Step 2: Split into chunks
     chunks = split_documents(documents)
     
-    # Step 3: Create vector store
+    # # Step 3: Create vector store
     vectorstore = create_vector_store(chunks, persistent_directory)
     
-    print("\n✅ Ingestion complete! Your documents are now ready for RAG queries.")
-    return vectorstore
+    # print("\n✅ Ingestion complete! Your documents are now ready for RAG queries.")
+    # return vectorstore
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+
+
+
+# documents = [
+#    Document(
+#        page_content="Google LLC is an American multinational corporation and technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI).",
+#        metadata={'source': 'docs/google.txt'}
+#    ),
+#    Document(
+#        page_content="Microsoft Corporation is an American multinational corporation and technology conglomerate headquartered in Redmond, Washington.",
+#        metadata={'source': 'docs/microsoft.txt'}
+#    ),
+#    Document(
+#        page_content="Nvidia Corporation is an American technology company headquartered in Santa Clara, California.",
+#        metadata={'source': 'docs/nvidia.txt'}
+#    ),
+#    Document(
+#        page_content="Space Exploration Technologies Corp., commonly referred to as SpaceX, is an American space technology company headquartered at the Starbase development site in Starbase, Texas.",
+#        metadata={'source': 'docs/spacex.txt'}
+#    ),
+#    Document(
+#        page_content="Tesla, Inc. is an American multinational automotive and clean energy company headquartered in Austin, Texas.",
+#        metadata={'source': 'docs/tesla.txt'}
+#    )
+# ]
