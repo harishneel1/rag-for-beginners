@@ -114,8 +114,8 @@ def main():
     # # Step 3: Create vector store
     vectorstore = create_vector_store(chunks, persistent_directory)
     
-    # print("\n✅ Ingestion complete! Your documents are now ready for RAG queries.")
-    # return vectorstore
+    print("\n✅ Ingestion complete! Your documents are now ready for RAG queries.")
+    return vectorstore
 
 if __name__ == "__main__":
     main()
