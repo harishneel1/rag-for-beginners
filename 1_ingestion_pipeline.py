@@ -48,18 +48,18 @@ def split_documents(documents, chunk_size=1000, chunk_overlap=0):
     
     chunks = text_splitter.split_documents(documents)
     
-    # if chunks:
+    if chunks:
     
-    #     for i, chunk in enumerate(chunks[:5]):
-    #         print(f"\n--- Chunk {i+1} ---")
-    #         print(f"Source: {chunk.metadata['source']}")
-    #         print(f"Length: {len(chunk.page_content)} characters")
-    #         print(f"Content:")
-    #         print(chunk.page_content)
-    #         print("-" * 50)
+        for i, chunk in enumerate(chunks[:5]):
+            print(f"\n--- Chunk {i+1} ---")
+            print(f"Source: {chunk.metadata['source']}")
+            print(f"Length: {len(chunk.page_content)} characters")
+            print(f"Content:")
+            print(chunk.page_content)
+            print("-" * 50)
         
-    #     if len(chunks) > 5:
-    #         print(f"\n... and {len(chunks) - 5} more chunks")
+        if len(chunks) > 5:
+            print(f"\n... and {len(chunks) - 5} more chunks")
     
     return chunks
 
@@ -67,13 +67,13 @@ def create_vector_store(chunks, persist_directory="db/chroma_db"):
     """Create and persist ChromaDB vector store"""
     print("Creating embeddings and storing in ChromaDB...")
         
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+    embedding_model = OpenAIEmbeddings(model="text-embedding-3-small")
     
     # Create ChromaDB vector store
     print("--- Creating vector store ---")
     vectorstore = Chroma.from_documents(
         documents=chunks,
-        embedding=embeddings,
+        embedding=embedding_model,
         persist_directory=persist_directory, 
         collection_metadata={"hnsw:space": "cosine"}
     )
@@ -94,10 +94,10 @@ def main():
     if os.path.exists(persistent_directory):
         print("✅ Vector store already exists. No need to re-process documents.")
         
-        embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+        embedding_model = OpenAIEmbeddings(model="text-embedding-3-small")
         vectorstore = Chroma(
             persist_directory=persistent_directory,
-            embedding_function=embeddings, 
+            embedding_function=embedding_model, 
             collection_metadata={"hnsw:space": "cosine"}
         )
         print(f"Loaded existing vector store with {vectorstore._collection.count()} documents")
