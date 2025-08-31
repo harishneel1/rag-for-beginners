@@ -49,11 +49,11 @@ def ask_question(user_question):
     # Step 3: Create final prompt
     combined_input = f"""Based on the following documents, please answer this question: {user_question}
 
-Documents:
-{"\n".join([f"- {doc.page_content}" for doc in docs])}
+    Documents:
+    {"\n".join([f"- {doc.page_content}" for doc in docs])}
 
-Please provide a clear, helpful answer using only the information from these documents. If you can't find the answer in the documents, say "I don't have enough information to answer that question based on the provided documents."
-"""
+    Please provide a clear, helpful answer using only the information from these documents. If you can't find the answer in the documents, say "I don't have enough information to answer that question based on the provided documents."
+    """
     
     # Step 4: Get the answer
     messages = [
