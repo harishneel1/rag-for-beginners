@@ -1,15 +1,15 @@
 Basic Architecture Questions
 
-1. What are the two main components of the Transformer architecture? (works)
-2. How many layers does the base Transformer model use in both encoder and decoder? (works)
-3. What is the dimensionality (dmodel) used in the base Transformer model? (works)
+1. What are the two main components of the Transformer architecture? 
+2. How many layers does the base Transformer model use in both encoder and decoder? 
+3. What is the dimensionality (dmodel) used in the base Transformer model? 
 
 Attention Mechanism Questions
 
-4. What is the formula for Scaled Dot-Product Attention? (works)
-5. Why do the authors scale the dot products by 1/√dk in their attention mechanism? (works)
-6. How many attention heads does the Transformer use, and what is the dimension of each head? (found in table - works)
+4. What is the formula for Scaled Dot-Product Attention? 
+5. Why do the authors scale the dot products by 1/√dk in their attention mechanism? 
+6. How many attention heads does the Transformer use, and what is the dimension of each head? 
 
 Comparative Analysis Question
 
-7. According to Table 1, what are the main advantages of self-attention layers compared to recurrent and convolutional layers in terms of computational complexity and parallelization? (this full answer is present in both the table as well as the text)
+7. According to Table 1, what are the main advantages of self-attention layers compared to recurrent and convolutional layers in terms of computational complexity and parallelization? 
