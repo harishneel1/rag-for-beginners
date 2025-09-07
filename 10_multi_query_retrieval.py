@@ -20,6 +20,9 @@ db = Chroma(
 # Pydantic model for structured output
 class QueryVariations(BaseModel):
     queries: List[str]
+# ──────────────────────────────────────────────────────────────────
+# MAIN EXECUTION
+# ──────────────────────────────────────────────────────────────────
 
 # Original query
 original_query = "How does Tesla make money?"
@@ -47,15 +50,18 @@ for i, variation in enumerate(query_variations, 1):
 print("\n" + "="*60)
 
 # ──────────────────────────────────────────────────────────────────
-# Step 2: Search with Each Query Variation
+# Step 2: Search with Each Query Variation & Store Results
 # ──────────────────────────────────────────────────────────────────
 
-retriever = db.as_retriever(search_kwargs={"k": 3})
+retriever = db.as_retriever(search_kwargs={"k": 5})  # Get more docs for better RRF
+all_retrieval_results = []  # Store all results for RRF
 
 for i, query in enumerate(query_variations, 1):
     print(f"\n=== RESULTS FOR QUERY {i}: {query} ===")
     
     docs = retriever.invoke(query)
+    all_retrieval_results.append(docs)  # Store for RRF calculation
+    
     print(f"Retrieved {len(docs)} documents:\n")
     
     for j, doc in enumerate(docs, 1):
@@ -66,4 +72,10 @@ for i, query in enumerate(query_variations, 1):
 
 print("\n" + "="*60)
 print("Multi-Query Retrieval Complete!")
-print("Notice how different query variations retrieved different documents.")
+
+
+# all_retrieval_results = [
+#     [Doc1, Doc2, Doc3, Doc4, Doc5],  ← Query 1 results
+#     [Doc2, Doc1, Doc6, Doc7, Doc3],  ← Query 2 results  
+#     [Doc8, Doc2, Doc9, Doc10, Doc11] ← Query 3 results
+# ]
